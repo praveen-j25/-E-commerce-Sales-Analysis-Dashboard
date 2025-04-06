@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_name,product_name,quantity,city,payment_method,order_date,total_price
+OD000941,CUST0040,Customer 296,Books & Stationery,3,Kolkata,Net Banking,2023-01-01,2400.0
+OD000762,CUST0341,Customer 479,Fashion,2,Lucknow,UPI,2023-01-01,8560.0
+OD000830,CUST0398,Customer 1,Appliances,4,Ahmedabad,COD,2023-01-01,161440.0
+OD000799,CUST0408,Customer 473,Beauty & Personal Care,4,Ahmedabad,UPI,2023-01-01,2160.0
+OD000942,CUST0140,Customer 14,Home & Kitchen,2,Lucknow,Net Banking,2023-01-01,12000.0
+OD000769,CUST0204,Customer 80,Appliances,4,Chennai,Credit Card,2023-01-01,268240.0
+OD000267,CUST0495,Customer 50,Mobile Phones,2,Jaipur,Credit Card,2023-01-02,83580.0
+OD000501,CUST0315,Customer 361,Electronics,4,Kolkata,Debit Card,2023-01-03,215120.0
+OD000167,CUST0499,Customer 342,Books & Stationery,2,Chennai,COD,2023-01-03,600.0
+OD000574,CUST0370,Customer 213,Books & Stationery,3,Hyderabad,UPI,2023-01-04,3030.0
+OD000217,CUST0066,Customer 388,Books & Stationery,2,Bangalore,Credit Card,2023-01-04,2780.0
+OD000027,CUST0397,Customer 338,Sports & Fitness,3,Mumbai,Credit Card,2023-01-04,27900.0
+OD000327,CUST0128,Customer 292,Fashion,1,Mumbai,UPI,2023-01-05,1430.0
+OD000523,CUST0096,Customer 7,Appliances,3,Jaipur,Credit Card,2023-01-05,30180.0
+OD000015,CUST0373,Customer 448,Grocery & Staples,2,Pune,Debit Card,2023-01-05,1160.0
+OD000343,CUST0011,Customer 246,Electronics,1,Ahmedabad,Debit Card,2023-01-05,20800.0
+OD000316,CUST0332,Customer 18,Home & Kitchen,2,Chennai,COD,2023-01-05,22240.0
+OD000004,CUST0257,Customer 291,Grocery & Staples,3,Lucknow,Debit Card,2023-01-05,3930.0
+OD000236,CUST0440,Customer 255,Grocery & Staples,3,Bangalore,UPI,2023-01-06,5190.0
+OD000347,CUST0129,Customer 355,Grocery & Staples,1,Kolkata,Debit Card,2023-01-06,540.0
+OD000607,CUST0307,Customer 20,Grocery & Staples,4,Kolkata,COD,2023-01-06,8560.0
+OD000309,CUST0361,Customer 12,Beauty & Personal Care,2,Bangalore,Debit Card,2023-01-07,480.0
+OD000966,CUST0278,Customer 310,Appliances,2,Jaipur,Debit Card,2023-01-07,20960.0
+OD000495,CUST0410,Customer 157,Furniture,2,Delhi,UPI,2023-01-07,95200.0
+OD000005,CUST0177,Customer 480,Mobile Phones,1,Delhi,COD,2023-01-07,9150.0
+OD000895,CUST0084,Customer 174,Sports & Fitness,3,Hyderabad,Credit Card,2023-01-08,12660.0
+OD000541,CUST0283,Customer 208,Fashion,1,Bangalore,Credit Card,2023-01-08,4820.0
+OD000279,CUST0500,Customer 152,Mobile Phones,2,Mumbai,Credit Card,2023-01-09,83640.0
+OD000947,CUST0007,Customer 145,Mobile Phones,2,Lucknow,Debit Card,2023-01-09,74100.0
+OD000087,CUST0178,Customer 464,Fashion,1,Bangalore,UPI,2023-01-09,570.0
+OD000858,CUST0273,Customer 130,Books & Stationery,3,Hyderabad,Debit Card,2023-01-09,1770.0
+OD000075,CUST0019,Customer 428,Beauty & Personal Care,2,Delhi,COD,2023-01-10,1540.0
+OD000072,CUST0139,Customer 75,Home & Kitchen,4,Chennai,Credit Card,2023-01-10,54560.0
+OD000120,CUST0351,Customer 308,Grocery & Staples,1,Ahmedabad,UPI,2023-01-10,2640.0
+OD000845,CUST0219,Customer 292,Grocery & Staples,2,Chennai,Credit Card,2023-01-11,4200.0
+OD000924,CUST0358,Customer 305,Sports & Fitness,2,Hyderabad,Net Banking,2023-01-11,8020.0
+OD000257,CUST0210,Customer 121,Books & Stationery,3,Mumbai,Net Banking,2023-01-12,2040.0
+OD000154,CUST0115,Customer 139,Furniture,4,Jaipur,UPI,2023-01-12,10680.0
+OD000964,CUST0316,Customer 399,Fashion,4,Mumbai,Debit Card,2023-01-13,9720.0
+OD000846,CUST0393,Customer 104,Appliances,4,Mumbai,COD,2023-01-13,252560.0
+OD000297,CUST0448,Customer 497,Beauty & Personal Care,1,Hyderabad,COD,2023-01-13,1550.0
+OD000209,CUST0466,Customer 284,Books & Stationery,3,Chennai,Credit Card,2023-01-13,1800.0
+OD000457,CUST0341,Customer 107,Electronics,3,Hyderabad,Credit Card,2023-01-13,167010.0
+OD000221,CUST0113,Customer 209,Furniture,4,Lucknow,Debit Card,2023-01-14,83320.0
+OD000922,CUST0165,Customer 458,Furniture,2,Ahmedabad,Net Banking,2023-01-15,13220.0
+OD000911,CUST0195,Customer 244,Beauty & Personal Care,3,Ahmedabad,COD,2023-01-15,3330.0
+OD000121,CUST0345,Customer 361,Mobile Phones,1,Chennai,Credit Card,2023-01-15,21140.0
+OD000592,CUST0053,Customer 474,Books & Stationery,2,Bangalore,Credit Card,2023-01-15,2700.0
+OD000396,CUST0088,Customer 435,Mobile Phones,1,Chennai,COD,2023-01-16,38580.0
+OD000633,CUST0265,Customer 5,Furniture,1,Lucknow,COD,2023-01-16,16450.0
+OD000885,CUST0495,Customer 300,Furniture,2,Mumbai,Credit Card,2023-01-16,50600.0
+OD000268,CUST0049,Customer 390,Grocery & Staples,4,Pune,Net Banking,2023-01-17,11240.0
+OD000722,CUST0460,Customer 12,Books & Stationery,2,Ahmedabad,Net Banking,2023-01-17,1780.0
+OD000258,CUST0212,Customer 48,Grocery & Staples,1,Kolkata,Net Banking,2023-01-18,1990.0
+OD000551,CUST0169,Customer 171,Furniture,2,Lucknow,Debit Card,2023-01-18,72420.0
+OD000184,CUST0034,Customer 318,Books & Stationery,2,Delhi,COD,2023-01-18,1620.0
+OD000471,CUST0026,Customer 331,Furniture,2,Kolkata,UPI,2023-01-19,98620.0
+OD000770,CUST0020,Customer 15,Electronics,1,Ahmedabad,Credit Card,2023-01-19,4790.0
+OD000023,CUST0216,Customer 110,Sports & Fitness,1,Lucknow,Debit Card,2023-01-20,4100.0
+OD000624,CUST0401,Customer 83,Books & Stationery,4,Bangalore,Debit Card,2023-01-20,1480.0
+OD000419,CUST0352,Customer 286,Books & Stationery,4,Ahmedabad,Credit Card,2023-01-20,2680.0
+OD000439,CUST0006,Customer 101,Electronics,1,Ahmedabad,UPI,2023-01-20,39240.0
+OD000977,CUST0251,Customer 434,Beauty & Personal Care,3,Hyderabad,Debit Card,2023-01-20,2310.0
+OD000150,CUST0119,Customer 200,Appliances,2,Bangalore,UPI,2023-01-20,105620.0
+OD000106,CUST0129,Customer 21,Beauty & Personal Care,1,Kolkata,COD,2023-01-21,120.0
+OD000682,CUST0455,Customer 71,Sports & Fitness,1,Lucknow,COD,2023-01-21,630.0
+OD000687,CUST0060,Customer 431,Appliances,1,Kolkata,Credit Card,2023-01-22,62930.0
+OD000754,CUST0218,Customer 161,Fashion,4,Lucknow,Net Banking,2023-01-22,11200.0
+OD000836,CUST0463,Customer 304,Books & Stationery,4,Pune,Debit Card,2023-01-23,3560.0
+OD000753,CUST0164,Customer 28,Home & Kitchen,2,Mumbai,UPI,2023-01-23,15740.0
+OD000875,CUST0141,Customer 457,Home & Kitchen,4,Kolkata,COD,2023-01-23,50040.0
+OD000194,CUST0269,Customer 430,Sports & Fitness,2,Lucknow,Credit Card,2023-01-25,7940.0
+OD000355,CUST0456,Customer 31,Electronics,4,Jaipur,UPI,2023-01-26,314920.0
+OD000860,CUST0242,Customer 140,Sports & Fitness,1,Pune,Net Banking,2023-01-26,950.0
+OD000124,CUST0034,Customer 350,Fashion,4,Hyderabad,Net Banking,2023-01-26,4480.0
+OD000840,CUST0228,Customer 350,Grocery & Staples,2,Chennai,Credit Card,2023-01-26,4440.0
+OD000759,CUST0224,Customer 161,Mobile Phones,3,Ahmedabad,COD,2023-01-26,89520.0
+OD000390,CUST0424,Customer 289,Electronics,2,Lucknow,Credit Card,2023-01-27,80200.0
+OD000054,CUST0066,Customer 36,Home & Kitchen,4,Hyderabad,UPI,2023-01-27,10720.0
+OD000884,CUST0380,Customer 236,Electronics,1,Jaipur,Credit Card,2023-01-27,27590.0
+OD000930,CUST0285,Customer 405,Electronics,1,Mumbai,COD,2023-01-28,60760.0
+OD000476,CUST0191,Customer 45,Furniture,3,Ahmedabad,COD,2023-01-28,133440.0
+OD000488,CUST0249,Customer 366,Grocery & Staples,4,Delhi,Credit Card,2023-01-29,4920.0
+OD000596,CUST0419,Customer 7,Beauty & Personal Care,3,Kolkata,Credit Card,2023-01-29,5580.0
+OD000291,CUST0095,Customer 323,Mobile Phones,2,Bangalore,Credit Card,2023-01-29,36680.0
+OD000672,CUST0095,Customer 356,Grocery & Staples,2,Pune,Credit Card,2023-01-30,4120.0
+OD000388,CUST0404,Customer 494,Appliances,4,Delhi,COD,2023-01-30,317960.0
+OD000784,CUST0061,Customer 198,Mobile Phones,3,Hyderabad,COD,2023-01-31,149370.0
+OD000102,CUST0033,Customer 324,Sports & Fitness,1,Jaipur,Net Banking,2023-01-31,6570.0
+OD000179,CUST0127,Customer 480,Fashion,4,Lucknow,Credit Card,2023-01-31,19000.0
+OD000281,CUST0125,Customer 198,Home & Kitchen,2,Mumbai,Credit Card,2023-02-01,17620.0
+OD000663,CUST0250,Customer 465,Furniture,4,Bangalore,Net Banking,2023-02-02,175800.0
+OD000654,CUST0187,Customer 478,Home & Kitchen,1,Pune,COD,2023-02-02,9550.0
+OD000173,CUST0437,Customer 443,Fashion,3,Kolkata,COD,2023-02-03,14490.0
+OD000709,CUST0037,Customer 269,Furniture,1,Jaipur,Net Banking,2023-02-03,33290.0
+OD000520,CUST0359,Customer 358,Grocery & Staples,1,Kolkata,Debit Card,2023-02-03,2060.0
+OD000022,CUST0213,Customer 65,Sports & Fitness,1,Delhi,UPI,2023-02-03,7320.0
+OD000225,CUST0033,Customer 273,Beauty & Personal Care,1,Delhi,Debit Card,2023-02-04,1670.0
+OD000791,CUST0167,Customer 183,Sports & Fitness,2,Jaipur,Credit Card,2023-02-04,6400.0
+OD000201,CUST0149,Customer 382,Appliances,1,Ahmedabad,COD,2023-02-05,35930.0
+OD000375,CUST0430,Customer 80,Home & Kitchen,2,Delhi,Credit Card,2023-02-05,13760.0
+OD000278,CUST0390,Customer 96,Fashion,2,Pune,UPI,2023-02-06,7380.0
+OD000740,CUST0216,Customer 166,Books & Stationery,3,Chennai,Credit Card,2023-02-07,780.0
+OD000361,CUST0488,Customer 46,Appliances,4,Ahmedabad,UPI,2023-02-07,32000.0
+OD000733,CUST0453,Customer 55,Beauty & Personal Care,2,Lucknow,Net Banking,2023-02-07,3680.0
+OD000879,CUST0461,Customer 300,Grocery & Staples,3,Chennai,COD,2023-02-07,4650.0
+OD000270,CUST0488,Customer 483,Fashion,3,Mumbai,COD,2023-02-08,4260.0
+OD000706,CUST0251,Customer 3,Grocery & Staples,2,Mumbai,UPI,2023-02-08,5620.0
+OD000183,CUST0015,Customer 373,Electronics,1,Hyderabad,Credit Card,2023-02-08,66400.0
+OD000859,CUST0020,Customer 225,Furniture,1,Pune,Credit Card,2023-02-09,24600.0
+OD000638,CUST0103,Customer 128,Books & Stationery,3,Hyderabad,COD,2023-02-09,2010.0
+OD000178,CUST0185,Customer 369,Furniture,4,Ahmedabad,Credit Card,2023-02-10,42200.0
+OD000109,CUST0442,Customer 66,Fashion,1,Kolkata,COD,2023-02-10,3560.0
+OD000620,CUST0159,Customer 6,Sports & Fitness,1,Jaipur,Credit Card,2023-02-10,1670.0
+OD000662,CUST0034,Customer 178,Books & Stationery,4,Ahmedabad,UPI,2023-02-10,3280.0
+OD000807,CUST0231,Customer 167,Books & Stationery,3,Pune,Debit Card,2023-02-10,1230.0
+OD000543,CUST0275,Customer 389,Home & Kitchen,2,Delhi,UPI,2023-02-11,20340.0
+OD000041,CUST0019,Customer 238,Fashion,1,Delhi,COD,2023-02-12,4980.0
+OD000262,CUST0342,Customer 378,Appliances,4,Hyderabad,UPI,2023-02-12,131600.0
+OD000131,CUST0199,Customer 484,Sports & Fitness,1,Lucknow,Net Banking,2023-02-12,2410.0
+OD000205,CUST0222,Customer 134,Mobile Phones,2,Mumbai,Net Banking,2023-02-12,39900.0
+OD000123,CUST0360,Customer 214,Books & Stationery,1,Delhi,Debit Card,2023-02-13,600.0
+OD000734,CUST0306,Customer 317,Electronics,3,Chennai,COD,2023-02-13,81600.0
+OD000550,CUST0113,Customer 311,Home & Kitchen,1,Jaipur,UPI,2023-02-13,8550.0
+OD000447,CUST0172,Customer 194,Appliances,2,Kolkata,Credit Card,2023-02-14,39200.0
+OD000503,CUST0291,Customer 425,Mobile Phones,1,Ahmedabad,Net Banking,2023-02-14,10210.0
+OD000234,CUST0134,Customer 246,Mobile Phones,2,Pune,Debit Card,2023-02-15,78340.0
+OD000181,CUST0215,Customer 370,Home & Kitchen,3,Jaipur,Credit Card,2023-02-15,40980.0
+OD000082,CUST0379,Customer 48,Books & Stationery,4,Delhi,Credit Card,2023-02-16,1160.0
+OD000377,CUST0372,Customer 409,Beauty & Personal Care,4,Jaipur,COD,2023-02-16,3480.0
+OD000424,CUST0338,Customer 247,Furniture,1,Jaipur,COD,2023-02-18,12450.0
+OD000092,CUST0379,Customer 351,Electronics,3,Lucknow,Debit Card,2023-02-18,171510.0
+OD000789,CUST0062,Customer 154,Grocery & Staples,1,Hyderabad,Net Banking,2023-02-18,330.0
+OD000216,CUST0432,Customer 37,Grocery & Staples,4,Mumbai,Credit Card,2023-02-18,8880.0
+OD000842,CUST0199,Customer 326,Appliances,1,Hyderabad,Credit Card,2023-02-19,20210.0
+OD000199,CUST0146,Customer 473,Electronics,2,Ahmedabad,Debit Card,2023-02-19,24080.0
+OD000469,CUST0208,Customer 27,Mobile Phones,1,Kolkata,COD,2023-02-19,22100.0
+OD000727,CUST0204,Customer 198,Mobile Phones,4,Jaipur,UPI,2023-02-19,103640.0
+OD000537,CUST0115,Customer 321,Fashion,3,Delhi,COD,2023-02-20,14130.0
+OD000506,CUST0437,Customer 405,Home & Kitchen,1,Ahmedabad,UPI,2023-02-20,12080.0
+OD000392,CUST0100,Customer 198,Books & Stationery,1,Kolkata,UPI,2023-02-20,470.0
+OD000697,CUST0304,Customer 108,Beauty & Personal Care,3,Kolkata,COD,2023-02-20,5520.0
+OD000400,CUST0443,Customer 149,Grocery & Staples,4,Jaipur,Debit Card,2023-02-20,5560.0
+OD000703,CUST0098,Customer 174,Fashion,4,Jaipur,COD,2023-02-20,3280.0
+OD000099,CUST0314,Customer 485,Fashion,1,Pune,COD,2023-02-21,2660.0
+OD000718,CUST0277,Customer 450,Mobile Phones,4,Delhi,UPI,2023-02-21,93680.0
+OD000026,CUST0252,Customer 83,Beauty & Personal Care,3,Bangalore,Net Banking,2023-02-21,5100.0
+OD000565,CUST0273,Customer 307,Fashion,2,Bangalore,COD,2023-02-22,5460.0
+OD000371,CUST0147,Customer 415,Appliances,4,Lucknow,COD,2023-02-22,198160.0
+OD000148,CUST0256,Customer 253,Furniture,3,Chennai,UPI,2023-02-22,104880.0
+OD000927,CUST0202,Customer 146,Furniture,2,Ahmedabad,UPI,2023-02-22,52760.0
+OD000385,CUST0274,Customer 104,Furniture,2,Bangalore,Debit Card,2023-02-22,34220.0
+OD000534,CUST0070,Customer 288,Sports & Fitness,4,Bangalore,Debit Card,2023-02-23,29680.0
+OD000379,CUST0467,Customer 217,Appliances,4,Bangalore,Net Banking,2023-02-23,128760.0
+OD000600,CUST0415,Customer 273,Electronics,2,Jaipur,UPI,2023-02-23,76080.0
+OD000652,CUST0031,Customer 488,Home & Kitchen,3,Pune,COD,2023-02-23,33150.0
+OD000786,CUST0493,Customer 231,Furniture,1,Jaipur,Debit Card,2023-02-24,48240.0
+OD000118,CUST0459,Customer 56,Books & Stationery,2,Kolkata,Net Banking,2023-02-24,960.0
+OD000238,CUST0077,Customer 188,Beauty & Personal Care,3,Hyderabad,COD,2023-02-24,2010.0
+OD000206,CUST0009,Customer 244,Mobile Phones,4,Lucknow,COD,2023-02-25,116720.0
+OD000698,CUST0077,Customer 158,Books & Stationery,2,Pune,Debit Card,2023-02-25,1600.0
+OD000793,CUST0167,Customer 361,Grocery & Staples,3,Jaipur,Debit Card,2023-02-26,1440.0
+OD000028,CUST0003,Customer 14,Furniture,2,Chennai,Net Banking,2023-02-26,75580.0
+OD000603,CUST0147,Customer 139,Furniture,3,Chennai,UPI,2023-02-26,143520.0
+OD000881,CUST0133,Customer 492,Furniture,3,Bangalore,Net Banking,2023-02-26,47220.0
+OD000529,CUST0274,Customer 69,Sports & Fitness,4,Pune,COD,2023-02-26,26000.0
+OD000269,CUST0026,Customer 169,Furniture,3,Ahmedabad,COD,2023-02-27,89250.0
+OD000314,CUST0373,Customer 438,Furniture,1,Ahmedabad,Net Banking,2023-02-27,8580.0
+OD000044,CUST0029,Customer 384,Furniture,3,Chennai,COD,2023-02-28,100830.0
+OD000915,CUST0028,Customer 329,Appliances,1,Jaipur,Credit Card,2023-03-01,39670.0
+OD000933,CUST0099,Customer 348,Home & Kitchen,2,Delhi,Debit Card,2023-03-01,19140.0
+OD000854,CUST0218,Customer 430,Mobile Phones,1,Hyderabad,Credit Card,2023-03-02,21500.0
+OD000370,CUST0024,Customer 36,Beauty & Personal Care,2,Ahmedabad,Credit Card,2023-03-03,2080.0
+OD000788,CUST0259,Customer 177,Beauty & Personal Care,3,Lucknow,Credit Card,2023-03-03,2640.0
+OD000462,CUST0329,Customer 138,Appliances,2,Mumbai,COD,2023-03-04,14640.0
+OD000997,CUST0111,Customer 103,Beauty & Personal Care,2,Jaipur,COD,2023-03-04,920.0
+OD000421,CUST0142,Customer 273,Mobile Phones,2,Jaipur,UPI,2023-03-04,20120.0
+OD000188,CUST0303,Customer 63,Books & Stationery,4,Kolkata,Debit Card,2023-03-04,1080.0
+OD000998,CUST0036,Customer 103,Electronics,3,Bangalore,Debit Card,2023-03-04,112260.0
+OD000685,CUST0122,Customer 220,Electronics,3,Bangalore,Net Banking,2023-03-05,215460.0
+OD000680,CUST0157,Customer 393,Grocery & Staples,4,Delhi,COD,2023-03-05,1120.0
+OD000794,CUST0119,Customer 108,Grocery & Staples,1,Chennai,Credit Card,2023-03-05,1720.0
+OD000978,CUST0045,Customer 371,Beauty & Personal Care,4,Chennai,COD,2023-03-05,2080.0
+OD000037,CUST0221,Customer 400,Home & Kitchen,3,Kolkata,COD,2023-03-05,6180.0
+OD000513,CUST0077,Customer 381,Appliances,2,Hyderabad,Net Banking,2023-03-05,54480.0
+OD000477,CUST0308,Customer 104,Beauty & Personal Care,3,Kolkata,UPI,2023-03-06,3960.0
+OD000583,CUST0387,Customer 461,Books & Stationery,3,Pune,COD,2023-03-06,3990.0
+OD000614,CUST0013,Customer 11,Appliances,4,Ahmedabad,Net Banking,2023-03-06,64480.0
+OD000480,CUST0237,Customer 189,Furniture,2,Mumbai,Debit Card,2023-03-07,75880.0
+OD000095,CUST0192,Customer 142,Fashion,3,Lucknow,Credit Card,2023-03-07,14670.0
+OD000957,CUST0242,Customer 350,Mobile Phones,3,Delhi,Debit Card,2023-03-07,138930.0
+OD000741,CUST0328,Customer 398,Home & Kitchen,3,Kolkata,COD,2023-03-08,17970.0
+OD000874,CUST0257,Customer 35,Electronics,3,Chennai,Net Banking,2023-03-08,232680.0
+OD000493,CUST0165,Customer 174,Furniture,1,Delhi,Debit Card,2023-03-08,6690.0
+OD000282,CUST0060,Customer 438,Electronics,4,Lucknow,UPI,2023-03-09,69400.0
+OD000831,CUST0088,Customer 90,Electronics,4,Bangalore,UPI,2023-03-09,254920.0
+OD000670,CUST0017,Customer 491,Appliances,1,Lucknow,COD,2023-03-09,32380.0
+OD000232,CUST0256,Customer 336,Fashion,4,Pune,Net Banking,2023-03-09,2560.0
+OD000256,CUST0121,Customer 268,Books & Stationery,4,Hyderabad,UPI,2023-03-09,3360.0
+OD000334,CUST0205,Customer 492,Sports & Fitness,2,Bangalore,Net Banking,2023-03-09,14080.0
+OD000227,CUST0497,Customer 58,Electronics,2,Jaipur,UPI,2023-03-09,46280.0
+OD000738,CUST0026,Customer 407,Fashion,1,Mumbai,Debit Card,2023-03-10,4490.0
+OD000358,CUST0073,Customer 380,Books & Stationery,3,Jaipur,Debit Card,2023-03-10,2550.0
+OD000610,CUST0138,Customer 491,Furniture,1,Lucknow,Net Banking,2023-03-11,4060.0
+OD000710,CUST0375,Customer 229,Furniture,2,Pune,Net Banking,2023-03-11,14880.0
+OD000928,CUST0069,Customer 6,Appliances,4,Ahmedabad,Credit Card,2023-03-12,175720.0
+OD000382,CUST0213,Customer 375,Electronics,1,Jaipur,Credit Card,2023-03-12,61380.0
+OD000081,CUST0286,Customer 345,Grocery & Staples,2,Chennai,Credit Card,2023-03-13,5000.0
+OD000176,CUST0205,Customer 267,Appliances,1,Pune,UPI,2023-03-15,57010.0
+OD000669,CUST0008,Customer 316,Sports & Fitness,3,Delhi,Net Banking,2023-03-15,26220.0
+OD000623,CUST0184,Customer 100,Home & Kitchen,3,Hyderabad,Net Banking,2023-03-16,7800.0
+OD000527,CUST0223,Customer 134,Home & Kitchen,2,Mumbai,COD,2023-03-16,19680.0
+OD000185,CUST0005,Customer 136,Books & Stationery,2,Ahmedabad,Net Banking,2023-03-16,2780.0
+OD000719,CUST0213,Customer 271,Furniture,4,Ahmedabad,Debit Card,2023-03-17,40480.0
+OD000246,CUST0380,Customer 336,Furniture,3,Chennai,Net Banking,2023-03-17,45900.0
+OD000655,CUST0430,Customer 134,Appliances,4,Kolkata,Credit Card,2023-03-18,207360.0
+OD000720,CUST0333,Customer 418,Appliances,3,Jaipur,UPI,2023-03-18,160620.0
+OD000742,CUST0029,Customer 280,Appliances,3,Kolkata,Net Banking,2023-03-18,114450.0
+OD000088,CUST0342,Customer 375,Appliances,1,Ahmedabad,Debit Card,2023-03-18,35170.0
+OD000750,CUST0203,Customer 56,Home & Kitchen,1,Jaipur,Credit Card,2023-03-19,4960.0
+OD000182,CUST0056,Customer 318,Grocery & Staples,1,Chennai,UPI,2023-03-19,2500.0
+OD000732,CUST0066,Customer 191,Fashion,2,Lucknow,COD,2023-03-19,2720.0
+OD000009,CUST0255,Customer 101,Mobile Phones,2,Chennai,Debit Card,2023-03-19,70300.0
+OD000303,CUST0355,Customer 394,Grocery & Staples,1,Lucknow,UPI,2023-03-19,2810.0
+OD000599,CUST0496,Customer 232,Electronics,3,Ahmedabad,COD,2023-03-20,97770.0
+OD000326,CUST0410,Customer 464,Home & Kitchen,2,Hyderabad,UPI,2023-03-20,24700.0
+OD000089,CUST0272,Customer 17,Mobile Phones,2,Hyderabad,Credit Card,2023-03-20,98360.0
+OD000755,CUST0200,Customer 321,Beauty & Personal Care,3,Hyderabad,COD,2023-03-20,2040.0
+OD000452,CUST0367,Customer 468,Home & Kitchen,2,Chennai,Debit Card,2023-03-20,1720.0
+OD000295,CUST0100,Customer 166,Beauty & Personal Care,4,Kolkata,COD,2023-03-21,6040.0
+OD000882,CUST0424,Customer 442,Mobile Phones,1,Chennai,Net Banking,2023-03-22,15250.0
+OD000661,CUST0472,Customer 148,Mobile Phones,2,Bangalore,UPI,2023-03-23,28540.0
+OD000470,CUST0083,Customer 186,Beauty & Personal Care,1,Lucknow,Net Banking,2023-03-23,290.0
+OD000222,CUST0115,Customer 297,Grocery & Staples,2,Bangalore,Net Banking,2023-03-23,5120.0
+OD000398,CUST0437,Customer 246,Electronics,2,Hyderabad,Net Banking,2023-03-23,28660.0
+OD000129,CUST0215,Customer 368,Mobile Phones,4,Lucknow,COD,2023-03-23,72720.0
+OD000748,CUST0182,Customer 370,Beauty & Personal Care,4,Chennai,COD,2023-03-23,1600.0
+OD000764,CUST0451,Customer 395,Fashion,3,Kolkata,COD,2023-03-23,11910.0
+OD000394,CUST0153,Customer 137,Appliances,1,Mumbai,COD,2023-03-24,16630.0
+OD000711,CUST0316,Customer 326,Furniture,1,Bangalore,Net Banking,2023-03-26,24830.0
+OD000093,CUST0169,Customer 292,Books & Stationery,1,Delhi,Net Banking,2023-03-26,430.0
+OD000581,CUST0046,Customer 302,Beauty & Personal Care,3,Mumbai,UPI,2023-03-26,3360.0
+OD000730,CUST0342,Customer 301,Appliances,3,Hyderabad,UPI,2023-03-27,161160.0
+OD000467,CUST0207,Customer 446,Grocery & Staples,4,Pune,Debit Card,2023-03-27,9440.0
+OD000050,CUST0257,Customer 65,Beauty & Personal Care,1,Kolkata,Debit Card,2023-03-27,390.0
+OD000153,CUST0470,Customer 283,Sports & Fitness,2,Bangalore,Debit Card,2023-03-28,2580.0
+OD000162,CUST0033,Customer 102,Furniture,4,Chennai,Net Banking,2023-03-28,117280.0
+OD000463,CUST0216,Customer 262,Electronics,4,Ahmedabad,UPI,2023-03-28,17440.0
+OD000582,CUST0306,Customer 154,Books & Stationery,3,Pune,Net Banking,2023-03-28,2340.0
+OD000668,CUST0061,Customer 475,Sports & Fitness,1,Ahmedabad,COD,2023-03-28,9440.0
+OD000261,CUST0064,Customer 442,Books & Stationery,2,Delhi,Net Banking,2023-03-28,1980.0
+OD000735,CUST0460,Customer 231,Grocery & Staples,1,Lucknow,UPI,2023-03-29,1980.0
+OD000530,CUST0154,Customer 255,Furniture,3,Mumbai,Debit Card,2023-03-29,112950.0
+OD000917,CUST0055,Customer 433,Furniture,2,Lucknow,UPI,2023-03-30,97240.0
+OD000202,CUST0316,Customer 96,Home & Kitchen,3,Mumbai,Net Banking,2023-03-30,27570.0
+OD000903,CUST0212,Customer 500,Appliances,2,Mumbai,Debit Card,2023-03-30,54520.0
+OD000045,CUST0234,Customer 144,Electronics,1,Bangalore,Credit Card,2023-03-30,67000.0
+OD000771,CUST0331,Customer 219,Sports & Fitness,1,Bangalore,UPI,2023-03-31,7540.0
+OD000001,CUST0230,Customer 462,Electronics,3,Kolkata,Net Banking,2023-03-31,219600.0
+OD000101,CUST0188,Customer 298,Books & Stationery,2,Pune,Credit Card,2023-03-31,2260.0
+OD000146,CUST0188,Customer 55,Grocery & Staples,1,Ahmedabad,UPI,2023-04-01,1120.0
+OD000059,CUST0120,Customer 299,Mobile Phones,2,Bangalore,UPI,2023-04-01,29760.0
+OD000739,CUST0141,Customer 271,Electronics,1,Chennai,COD,2023-04-01,75970.0
+OD000422,CUST0230,Customer 455,Mobile Phones,1,Delhi,Credit Card,2023-04-01,30670.0
+OD000203,CUST0389,Customer 258,Appliances,4,Hyderabad,COD,2023-04-01,127000.0
+OD000290,CUST0129,Customer 483,Fashion,1,Ahmedabad,Net Banking,2023-04-03,2300.0
+OD000408,CUST0202,Customer 319,Fashion,4,Chennai,COD,2023-04-04,19640.0
+OD000608,CUST0054,Customer 436,Sports & Fitness,4,Ahmedabad,Net Banking,2023-04-04,31720.0
+OD000666,CUST0113,Customer 409,Beauty & Personal Care,1,Hyderabad,UPI,2023-04-05,1760.0
+OD000625,CUST0184,Customer 122,Home & Kitchen,1,Ahmedabad,Net Banking,2023-04-05,8360.0
+OD000007,CUST0400,Customer 373,Books & Stationery,1,Bangalore,Net Banking,2023-04-05,610.0
+OD000187,CUST0240,Customer 190,Appliances,4,Jaipur,Debit Card,2023-04-06,279760.0
+OD000705,CUST0156,Customer 447,Grocery & Staples,1,Mumbai,UPI,2023-04-06,2190.0
+OD000724,CUST0311,Customer 104,Fashion,4,Pune,COD,2023-04-06,19200.0
+OD000104,CUST0290,Customer 225,Mobile Phones,4,Jaipur,Debit Card,2023-04-06,154600.0
+OD000577,CUST0466,Customer 371,Grocery & Staples,4,Pune,Credit Card,2023-04-06,5880.0
+OD000872,CUST0160,Customer 467,Books & Stationery,2,Mumbai,Net Banking,2023-04-07,480.0
+OD000410,CUST0107,Customer 49,Fashion,4,Jaipur,Credit Card,2023-04-08,3040.0
+OD000364,CUST0059,Customer 409,Grocery & Staples,4,Kolkata,Credit Card,2023-04-08,7760.0
+OD000056,CUST0150,Customer 268,Appliances,1,Mumbai,Credit Card,2023-04-08,36120.0
+OD000689,CUST0075,Customer 39,Books & Stationery,4,Pune,COD,2023-04-09,5840.0
+OD000844,CUST0228,Customer 5,Mobile Phones,2,Chennai,Debit Card,2023-04-10,55420.0
+OD000241,CUST0105,Customer 492,Fashion,2,Ahmedabad,COD,2023-04-10,6360.0
+OD000991,CUST0384,Customer 440,Sports & Fitness,1,Chennai,Credit Card,2023-04-10,4810.0
+OD000945,CUST0089,Customer 442,Home & Kitchen,2,Chennai,COD,2023-04-11,5880.0
+OD000125,CUST0484,Customer 185,Books & Stationery,4,Lucknow,Credit Card,2023-04-11,3280.0
+OD000926,CUST0267,Customer 174,Books & Stationery,4,Delhi,Debit Card,2023-04-11,3520.0
+OD000889,CUST0242,Customer 379,Sports & Fitness,1,Delhi,UPI,2023-04-12,4050.0
+OD000152,CUST0112,Customer 384,Appliances,3,Chennai,Debit Card,2023-04-12,54150.0
+OD000407,CUST0381,Customer 189,Sports & Fitness,1,Kolkata,Credit Card,2023-04-12,6460.0
+OD000126,CUST0042,Customer 404,Furniture,1,Hyderabad,Credit Card,2023-04-12,16000.0
+OD000743,CUST0382,Customer 295,Home & Kitchen,1,Mumbai,UPI,2023-04-13,7170.0
+OD000083,CUST0417,Customer 438,Fashion,4,Chennai,Net Banking,2023-04-13,5360.0
+OD000780,CUST0013,Customer 14,Electronics,4,Hyderabad,Net Banking,2023-04-14,79320.0
+OD000032,CUST0237,Customer 215,Appliances,1,Kolkata,Debit Card,2023-04-14,34580.0
+OD000308,CUST0495,Customer 35,Grocery & Staples,2,Delhi,UPI,2023-04-14,580.0
+OD000900,CUST0266,Customer 222,Home & Kitchen,3,Ahmedabad,Credit Card,2023-04-15,6960.0
+OD000441,CUST0143,Customer 36,Grocery & Staples,3,Ahmedabad,COD,2023-04-15,8430.0
+OD000046,CUST0013,Customer 489,Fashion,4,Lucknow,COD,2023-04-16,19720.0
+OD000578,CUST0309,Customer 290,Grocery & Staples,4,Jaipur,Credit Card,2023-04-16,11440.0
+OD000517,CUST0169,Customer 398,Grocery & Staples,4,Chennai,UPI,2023-04-16,1000.0
+OD000491,CUST0410,Customer 275,Mobile Phones,3,Bangalore,COD,2023-04-17,82560.0
+OD000160,CUST0039,Customer 82,Home & Kitchen,4,Ahmedabad,Debit Card,2023-04-17,33080.0
+OD000954,CUST0312,Customer 213,Books & Stationery,3,Lucknow,Debit Card,2023-04-17,1410.0
+OD000170,CUST0124,Customer 136,Home & Kitchen,1,Bangalore,COD,2023-04-17,1110.0
+OD000792,CUST0086,Customer 118,Mobile Phones,2,Hyderabad,UPI,2023-04-17,32420.0
+OD000380,CUST0303,Customer 48,Electronics,2,Mumbai,COD,2023-04-18,125660.0
+OD000100,CUST0254,Customer 426,Home & Kitchen,4,Ahmedabad,UPI,2023-04-18,46680.0
+OD000336,CUST0439,Customer 136,Beauty & Personal Care,2,Delhi,UPI,2023-04-18,240.0
+OD000147,CUST0174,Customer 84,Electronics,4,Mumbai,UPI,2023-04-19,13280.0
+OD000776,CUST0427,Customer 321,Furniture,3,Delhi,UPI,2023-04-19,28920.0
+OD000490,CUST0246,Customer 108,Grocery & Staples,4,Lucknow,COD,2023-04-19,10880.0
+OD000478,CUST0065,Customer 210,Home & Kitchen,2,Bangalore,COD,2023-04-19,12880.0
+OD000071,CUST0379,Customer 309,Grocery & Staples,3,Kolkata,Credit Card,2023-04-20,6000.0
+OD000136,CUST0164,Customer 496,Grocery & Staples,1,Lucknow,COD,2023-04-20,1500.0
+OD000898,CUST0499,Customer 252,Fashion,2,Bangalore,Credit Card,2023-04-20,1620.0
+OD000196,CUST0232,Customer 392,Mobile Phones,3,Kolkata,UPI,2023-04-21,123930.0
+OD000827,CUST0248,Customer 306,Sports & Fitness,1,Mumbai,COD,2023-04-21,2930.0
+OD000876,CUST0004,Customer 395,Furniture,1,Chennai,Net Banking,2023-04-21,12800.0
+OD000618,CUST0206,Customer 19,Mobile Phones,3,Delhi,Debit Card,2023-04-22,41700.0
+OD000168,CUST0167,Customer 73,Appliances,2,Mumbai,Debit Card,2023-04-22,37060.0
+OD000043,CUST0273,Customer 185,Grocery & Staples,3,Ahmedabad,Net Banking,2023-04-22,6030.0
+OD000272,CUST0426,Customer 445,Books & Stationery,1,Kolkata,Net Banking,2023-04-22,370.0
+OD000240,CUST0017,Customer 330,Grocery & Staples,3,Lucknow,UPI,2023-04-22,8550.0
+OD000235,CUST0027,Customer 309,Books & Stationery,4,Jaipur,UPI,2023-04-22,3040.0
+OD000589,CUST0089,Customer 426,Appliances,1,Lucknow,UPI,2023-04-22,13610.0
+OD000782,CUST0084,Customer 422,Books & Stationery,3,Ahmedabad,Debit Card,2023-04-23,2460.0
+OD000049,CUST0309,Customer 221,Beauty & Personal Care,3,Jaipur,Credit Card,2023-04-23,5970.0
+OD000869,CUST0254,Customer 325,Electronics,4,Pune,COD,2023-04-23,72240.0
+OD000674,CUST0260,Customer 498,Grocery & Staples,3,Hyderabad,Credit Card,2023-04-24,7320.0
+OD000195,CUST0344,Customer 132,Grocery & Staples,4,Bangalore,UPI,2023-04-24,10320.0
+OD000306,CUST0024,Customer 492,Sports & Fitness,4,Mumbai,UPI,2023-04-24,11680.0
+OD000351,CUST0108,Customer 459,Grocery & Staples,2,Ahmedabad,UPI,2023-04-24,3740.0
+OD000228,CUST0415,Customer 279,Furniture,2,Hyderabad,UPI,2023-04-25,52160.0
+OD000115,CUST0030,Customer 332,Home & Kitchen,1,Ahmedabad,UPI,2023-04-25,14080.0
+OD000700,CUST0490,Customer 8,Grocery & Staples,3,Kolkata,COD,2023-04-26,1710.0
+OD000057,CUST0166,Customer 403,Appliances,1,Bangalore,Credit Card,2023-04-26,6550.0
+OD000967,CUST0290,Customer 223,Fashion,3,Delhi,Net Banking,2023-04-26,1950.0
+OD000293,CUST0178,Customer 201,Beauty & Personal Care,3,Ahmedabad,COD,2023-04-27,3360.0
+OD000949,CUST0074,Customer 113,Grocery & Staples,2,Mumbai,COD,2023-04-27,1600.0
+OD000511,CUST0061,Customer 408,Sports & Fitness,3,Kolkata,COD,2023-04-27,6780.0
+OD000712,CUST0202,Customer 268,Fashion,3,Lucknow,Debit Card,2023-04-28,13290.0
+OD000010,CUST0312,Customer 33,Home & Kitchen,2,Jaipur,Debit Card,2023-04-28,7680.0
+OD000468,CUST0236,Customer 17,Beauty & Personal Care,1,Chennai,COD,2023-04-28,1070.0
+OD000453,CUST0292,Customer 162,Grocery & Staples,2,Ahmedabad,Credit Card,2023-04-28,4900.0
+OD000444,CUST0069,Customer 276,Beauty & Personal Care,1,Chennai,COD,2023-04-28,1460.0
+OD000029,CUST0333,Customer 87,Furniture,3,Chennai,COD,2023-04-28,133230.0
+OD000464,CUST0473,Customer 300,Fashion,4,Hyderabad,Debit Card,2023-04-29,8680.0
+OD000002,CUST0120,Customer 64,Appliances,3,Chennai,COD,2023-04-29,201840.0
+OD000584,CUST0084,Customer 170,Electronics,4,Ahmedabad,Credit Card,2023-04-29,42040.0
+OD000634,CUST0007,Customer 252,Books & Stationery,4,Ahmedabad,Credit Card,2023-04-30,5720.0
+OD000659,CUST0417,Customer 392,Appliances,4,Mumbai,COD,2023-04-30,63760.0
+OD000856,CUST0227,Customer 63,Electronics,1,Delhi,Debit Card,2023-04-30,33940.0
+OD000657,CUST0457,Customer 327,Mobile Phones,1,Delhi,COD,2023-05-01,16510.0
+OD000862,CUST0362,Customer 449,Grocery & Staples,2,Hyderabad,COD,2023-05-01,3740.0
+OD000134,CUST0093,Customer 335,Appliances,1,Pune,Debit Card,2023-05-02,78190.0
+OD000383,CUST0321,Customer 380,Fashion,3,Kolkata,COD,2023-05-02,3720.0
+OD000416,CUST0478,Customer 216,Home & Kitchen,4,Kolkata,UPI,2023-05-02,26720.0
+OD000767,CUST0495,Customer 172,Sports & Fitness,4,Jaipur,Credit Card,2023-05-02,24840.0
+OD000714,CUST0086,Customer 400,Beauty & Personal Care,2,Hyderabad,Net Banking,2023-05-02,1640.0
+OD000263,CUST0082,Customer 66,Fashion,3,Ahmedabad,UPI,2023-05-03,4950.0
+OD000051,CUST0445,Customer 368,Mobile Phones,2,Bangalore,Net Banking,2023-05-03,92320.0
+OD000690,CUST0241,Customer 94,Home & Kitchen,4,Ahmedabad,Credit Card,2023-05-04,6920.0
+OD000785,CUST0021,Customer 407,Books & Stationery,1,Chennai,Debit Card,2023-05-04,410.0
+OD000412,CUST0077,Customer 342,Sports & Fitness,1,Hyderabad,Debit Card,2023-05-04,2510.0
+OD000536,CUST0431,Customer 306,Sports & Fitness,1,Ahmedabad,COD,2023-05-04,2010.0
+OD000677,CUST0434,Customer 80,Appliances,2,Mumbai,Credit Card,2023-05-05,120480.0
+OD000166,CUST0111,Customer 104,Beauty & Personal Care,1,Jaipur,Debit Card,2023-05-05,1510.0
+OD000287,CUST0372,Customer 441,Grocery & Staples,4,Bangalore,Net Banking,2023-05-05,8160.0
+OD000344,CUST0222,Customer 351,Mobile Phones,3,Delhi,COD,2023-05-05,77250.0
+OD000389,CUST0033,Customer 77,Fashion,3,Chennai,Credit Card,2023-05-06,9630.0
+OD000992,CUST0034,Customer 141,Appliances,2,Delhi,UPI,2023-05-06,136320.0
+OD000156,CUST0362,Customer 346,Sports & Fitness,2,Pune,Debit Card,2023-05-06,10040.0
+OD000766,CUST0026,Customer 82,Grocery & Staples,1,Bangalore,COD,2023-05-07,220.0
+OD000310,CUST0344,Customer 69,Sports & Fitness,3,Delhi,UPI,2023-05-08,4680.0
+OD000937,CUST0437,Customer 216,Electronics,3,Pune,Credit Card,2023-05-08,68520.0
+OD000055,CUST0409,Customer 466,Electronics,3,Lucknow,COD,2023-05-08,148740.0
+OD000796,CUST0050,Customer 163,Sports & Fitness,2,Kolkata,UPI,2023-05-08,14780.0
+OD000455,CUST0401,Customer 188,Grocery & Staples,3,Chennai,Net Banking,2023-05-09,1890.0
+OD000062,CUST0153,Customer 188,Sports & Fitness,3,Jaipur,Debit Card,2023-05-09,5640.0
+OD000362,CUST0203,Customer 353,Sports & Fitness,2,Chennai,Debit Card,2023-05-09,16140.0
+OD000585,CUST0104,Customer 395,Beauty & Personal Care,3,Hyderabad,Net Banking,2023-05-09,3930.0
+OD000163,CUST0179,Customer 456,Books & Stationery,3,Mumbai,COD,2023-05-09,2100.0
+OD000038,CUST0099,Customer 244,Grocery & Staples,1,Ahmedabad,Net Banking,2023-05-10,2990.0
+OD000651,CUST0075,Customer 345,Mobile Phones,1,Pune,Net Banking,2023-05-11,13420.0
+OD000094,CUST0431,Customer 427,Fashion,3,Mumbai,UPI,2023-05-12,7890.0
+OD000033,CUST0105,Customer 191,Home & Kitchen,3,Lucknow,COD,2023-05-12,33180.0
+OD000919,CUST0088,Customer 370,Grocery & Staples,1,Mumbai,COD,2023-05-12,2060.0
+OD000137,CUST0287,Customer 48,Home & Kitchen,4,Ahmedabad,Net Banking,2023-05-13,9320.0
+OD000726,CUST0056,Customer 407,Sports & Fitness,3,Kolkata,Net Banking,2023-05-14,24540.0
+OD000197,CUST0330,Customer 91,Fashion,3,Lucknow,UPI,2023-05-14,6270.0
+OD000313,CUST0450,Customer 401,Books & Stationery,2,Delhi,Net Banking,2023-05-14,600.0
+OD000487,CUST0285,Customer 319,Beauty & Personal Care,2,Ahmedabad,COD,2023-05-14,480.0
+OD000667,CUST0368,Customer 413,Mobile Phones,3,Pune,Net Banking,2023-05-14,49170.0
+OD000345,CUST0424,Customer 251,Fashion,1,Hyderabad,COD,2023-05-15,500.0
+OD000138,CUST0053,Customer 247,Electronics,2,Hyderabad,UPI,2023-05-15,74920.0
+OD000696,CUST0095,Customer 332,Books & Stationery,2,Hyderabad,UPI,2023-05-16,1400.0
+OD000838,CUST0408,Customer 490,Mobile Phones,4,Jaipur,Net Banking,2023-05-16,35680.0
+OD000812,CUST0155,Customer 340,Electronics,3,Pune,Credit Card,2023-05-17,16380.0
+OD000141,CUST0401,Customer 404,Electronics,3,Lucknow,Net Banking,2023-05-17,104790.0
+OD000348,CUST0292,Customer 246,Fashion,4,Bangalore,Net Banking,2023-05-17,5600.0
+OD000909,CUST0233,Customer 439,Furniture,2,Jaipur,Net Banking,2023-05-18,50760.0
+OD000296,CUST0474,Customer 132,Fashion,1,Jaipur,Debit Card,2023-05-18,4370.0
+OD000521,CUST0492,Customer 436,Grocery & Staples,3,Delhi,Credit Card,2023-05-18,930.0
+OD000891,CUST0468,Customer 429,Electronics,1,Jaipur,Debit Card,2023-05-19,36740.0
+OD000916,CUST0158,Customer 463,Beauty & Personal Care,1,Hyderabad,Credit Card,2023-05-19,820.0
+OD000818,CUST0163,Customer 89,Home & Kitchen,3,Chennai,COD,2023-05-19,31140.0
+OD000245,CUST0421,Customer 177,Fashion,2,Lucknow,COD,2023-05-19,3800.0
+OD000255,CUST0068,Customer 191,Books & Stationery,1,Bangalore,UPI,2023-05-20,1070.0
+OD000237,CUST0006,Customer 136,Sports & Fitness,3,Chennai,UPI,2023-05-20,14430.0
+OD000870,CUST0054,Customer 347,Sports & Fitness,3,Hyderabad,Net Banking,2023-05-20,2130.0
+OD000159,CUST0500,Customer 279,Fashion,4,Jaipur,UPI,2023-05-20,16400.0
+OD000853,CUST0142,Customer 486,Furniture,1,Hyderabad,Debit Card,2023-05-21,47320.0
+OD000985,CUST0034,Customer 410,Furniture,2,Hyderabad,COD,2023-05-21,7000.0
+OD000317,CUST0426,Customer 309,Sports & Fitness,3,Jaipur,Net Banking,2023-05-22,20640.0
+OD000443,CUST0018,Customer 124,Furniture,3,Lucknow,UPI,2023-05-22,80280.0
+OD000619,CUST0277,Customer 459,Sports & Fitness,4,Ahmedabad,COD,2023-05-22,19040.0
+OD000229,CUST0314,Customer 491,Electronics,1,Jaipur,COD,2023-05-23,44370.0
+OD000779,CUST0230,Customer 59,Home & Kitchen,1,Bangalore,Credit Card,2023-05-23,12790.0
+OD000331,CUST0143,Customer 470,Home & Kitchen,4,Bangalore,COD,2023-05-23,6560.0
+OD000459,CUST0132,Customer 40,Home & Kitchen,3,Bangalore,UPI,2023-05-23,2400.0
+OD000649,CUST0088,Customer 157,Home & Kitchen,1,Pune,Debit Card,2023-05-23,8050.0
+OD000613,CUST0220,Customer 63,Grocery & Staples,3,Chennai,UPI,2023-05-23,8250.0
+OD000061,CUST0199,Customer 303,Electronics,1,Ahmedabad,UPI,2023-05-24,21240.0
+OD000112,CUST0415,Customer 229,Sports & Fitness,4,Bangalore,Debit Card,2023-05-24,21120.0
+OD000974,CUST0130,Customer 200,Grocery & Staples,2,Pune,Net Banking,2023-05-26,3820.0
+OD000342,CUST0495,Customer 262,Sports & Fitness,2,Hyderabad,COD,2023-05-26,15120.0
+OD000611,CUST0194,Customer 496,Mobile Phones,4,Mumbai,Debit Card,2023-05-26,98280.0
+OD000798,CUST0037,Customer 446,Appliances,3,Lucknow,UPI,2023-05-26,71280.0
+OD000243,CUST0223,Customer 70,Grocery & Staples,1,Lucknow,COD,2023-05-27,1240.0
+OD000790,CUST0343,Customer 201,Books & Stationery,3,Pune,UPI,2023-05-28,1140.0
+OD000504,CUST0312,Customer 89,Electronics,4,Lucknow,Credit Card,2023-05-29,58760.0
+OD000888,CUST0033,Customer 464,Grocery & Staples,2,Pune,COD,2023-05-29,1000.0
+OD000381,CUST0349,Customer 459,Grocery & Staples,2,Bangalore,UPI,2023-05-29,4660.0
+OD000122,CUST0281,Customer 63,Grocery & Staples,2,Chennai,UPI,2023-05-29,440.0
+OD000105,CUST0102,Customer 248,Appliances,1,Pune,COD,2023-05-30,38570.0
+OD000932,CUST0326,Customer 349,Grocery & Staples,3,Mumbai,COD,2023-05-30,2670.0
+OD000244,CUST0407,Customer 53,Furniture,4,Hyderabad,Credit Card,2023-05-30,71840.0
+OD000103,CUST0499,Customer 292,Appliances,3,Kolkata,UPI,2023-05-31,28530.0
+OD000866,CUST0051,Customer 51,Appliances,3,Pune,Debit Card,2023-05-31,235560.0
+OD000542,CUST0112,Customer 171,Mobile Phones,1,Delhi,COD,2023-06-01,15580.0
+OD000702,CUST0083,Customer 496,Furniture,3,Chennai,COD,2023-06-01,55560.0
+OD000572,CUST0364,Customer 364,Fashion,4,Bangalore,UPI,2023-06-01,12720.0
+OD000976,CUST0066,Customer 332,Home & Kitchen,2,Hyderabad,UPI,2023-06-01,18460.0
+OD000427,CUST0495,Customer 223,Fashion,1,Mumbai,UPI,2023-06-02,1530.0
+OD000006,CUST0406,Customer 362,Furniture,3,Lucknow,UPI,2023-06-03,98100.0
+OD000801,CUST0171,Customer 129,Fashion,4,Ahmedabad,Net Banking,2023-06-04,4880.0
+OD000837,CUST0319,Customer 413,Furniture,2,Chennai,UPI,2023-06-05,71040.0
+OD000586,CUST0249,Customer 290,Sports & Fitness,2,Kolkata,COD,2023-06-06,7120.0
+OD000080,CUST0050,Customer 480,Mobile Phones,4,Lucknow,Debit Card,2023-06-06,107560.0
+OD000694,CUST0198,Customer 231,Fashion,3,Kolkata,UPI,2023-06-06,6990.0
+OD000354,CUST0317,Customer 264,Appliances,3,Kolkata,Credit Card,2023-06-06,121290.0
+OD000935,CUST0127,Customer 219,Beauty & Personal Care,4,Kolkata,UPI,2023-06-07,6560.0
+OD000374,CUST0022,Customer 467,Fashion,3,Hyderabad,Net Banking,2023-06-07,13410.0
+OD000497,CUST0099,Customer 43,Home & Kitchen,2,Bangalore,UPI,2023-06-08,5860.0
+OD000142,CUST0429,Customer 147,Electronics,4,Delhi,COD,2023-06-08,31440.0
+OD000897,CUST0495,Customer 11,Sports & Fitness,4,Bangalore,Debit Card,2023-06-08,6800.0
+OD000749,CUST0342,Customer 94,Appliances,1,Lucknow,COD,2023-06-08,22500.0
+OD000318,CUST0032,Customer 8,Beauty & Personal Care,1,Mumbai,Net Banking,2023-06-09,710.0
+OD000538,CUST0389,Customer 404,Books & Stationery,4,Jaipur,Credit Card,2023-06-09,1720.0
+OD000848,CUST0168,Customer 220,Electronics,1,Lucknow,UPI,2023-06-09,19730.0
+OD000259,CUST0308,Customer 430,Appliances,1,Pune,Debit Card,2023-06-09,71680.0
+OD000883,CUST0065,Customer 120,Grocery & Staples,2,Chennai,Net Banking,2023-06-10,3560.0
+OD000563,CUST0267,Customer 24,Furniture,1,Chennai,Debit Card,2023-06-10,34500.0
+OD000299,CUST0323,Customer 434,Mobile Phones,1,Chennai,Debit Card,2023-06-11,44720.0
+OD000841,CUST0167,Customer 296,Grocery & Staples,3,Ahmedabad,COD,2023-06-11,8070.0
+OD000273,CUST0221,Customer 49,Grocery & Staples,3,Jaipur,UPI,2023-06-11,8850.0
+OD000890,CUST0079,Customer 90,Furniture,3,Jaipur,Credit Card,2023-06-12,74580.0
+OD000839,CUST0262,Customer 218,Appliances,1,Kolkata,UPI,2023-06-12,10610.0
+OD000116,CUST0065,Customer 241,Electronics,1,Chennai,Credit Card,2023-06-12,7100.0
+OD000175,CUST0436,Customer 211,Books & Stationery,3,Delhi,Debit Card,2023-06-12,960.0
+OD000404,CUST0209,Customer 114,Furniture,2,Jaipur,Net Banking,2023-06-12,90440.0
+OD000878,CUST0187,Customer 237,Home & Kitchen,4,Lucknow,UPI,2023-06-12,25880.0
+OD000484,CUST0359,Customer 4,Grocery & Staples,1,Kolkata,COD,2023-06-13,2940.0
+OD000905,CUST0302,Customer 149,Books & Stationery,1,Mumbai,UPI,2023-06-13,470.0
+OD000809,CUST0312,Customer 75,Electronics,3,Jaipur,COD,2023-06-13,176460.0
+OD000472,CUST0470,Customer 29,Sports & Fitness,3,Chennai,Net Banking,2023-06-15,14520.0
+OD000877,CUST0273,Customer 74,Electronics,4,Bangalore,Debit Card,2023-06-15,119960.0
+OD000200,CUST0005,Customer 37,Books & Stationery,4,Mumbai,Debit Card,2023-06-16,2320.0
+OD000435,CUST0249,Customer 390,Furniture,3,Kolkata,COD,2023-06-16,131190.0
+OD000428,CUST0485,Customer 365,Books & Stationery,2,Hyderabad,UPI,2023-06-16,1880.0
+OD000951,CUST0052,Customer 341,Books & Stationery,2,Delhi,COD,2023-06-17,1020.0
+OD000079,CUST0381,Customer 41,Furniture,2,Lucknow,UPI,2023-06-17,53760.0
+OD000817,CUST0152,Customer 186,Mobile Phones,1,Jaipur,Debit Card,2023-06-17,15000.0
+OD000982,CUST0019,Customer 409,Fashion,4,Jaipur,Debit Card,2023-06-18,11200.0
+OD000516,CUST0418,Customer 52,Mobile Phones,4,Chennai,Debit Card,2023-06-18,139240.0
+OD000265,CUST0500,Customer 232,Appliances,3,Ahmedabad,Credit Card,2023-06-18,126240.0
+OD000641,CUST0487,Customer 155,Electronics,1,Chennai,COD,2023-06-18,25980.0
+OD000335,CUST0366,Customer 486,Electronics,1,Hyderabad,Debit Card,2023-06-19,31800.0
+OD000665,CUST0092,Customer 313,Books & Stationery,4,Chennai,Net Banking,2023-06-19,5480.0
+OD000013,CUST0476,Customer 320,Furniture,1,Bangalore,Credit Card,2023-06-19,28700.0
+OD000473,CUST0050,Customer 111,Books & Stationery,3,Pune,Debit Card,2023-06-20,3030.0
+OD000910,CUST0194,Customer 211,Mobile Phones,2,Pune,UPI,2023-06-22,79480.0
+OD000892,CUST0394,Customer 117,Fashion,4,Delhi,COD,2023-06-22,4520.0
+OD000117,CUST0167,Customer 68,Furniture,4,Lucknow,Net Banking,2023-06-22,11320.0
+OD000425,CUST0376,Customer 476,Furniture,2,Hyderabad,COD,2023-06-22,51900.0
+OD000330,CUST0069,Customer 261,Sports & Fitness,4,Hyderabad,Debit Card,2023-06-23,34400.0
+OD000902,CUST0113,Customer 361,Sports & Fitness,3,Hyderabad,Credit Card,2023-06-23,18960.0
+OD000210,CUST0270,Customer 273,Appliances,1,Bangalore,Debit Card,2023-06-23,75440.0
+OD000266,CUST0250,Customer 68,Electronics,1,Bangalore,COD,2023-06-24,11200.0
+OD000346,CUST0254,Customer 305,Home & Kitchen,4,Pune,UPI,2023-06-24,21960.0
+OD000251,CUST0314,Customer 361,Mobile Phones,3,Delhi,Net Banking,2023-06-24,106920.0
+OD000413,CUST0133,Customer 209,Electronics,1,Kolkata,UPI,2023-06-25,61140.0
+OD000420,CUST0003,Customer 217,Electronics,4,Mumbai,UPI,2023-06-26,48920.0
+OD000526,CUST0467,Customer 458,Furniture,1,Jaipur,UPI,2023-06-26,49280.0
+OD000338,CUST0425,Customer 391,Grocery & Staples,1,Jaipur,UPI,2023-06-26,1220.0
+OD000920,CUST0097,Customer 349,Sports & Fitness,4,Pune,Credit Card,2023-06-27,18520.0
+OD000052,CUST0164,Customer 130,Mobile Phones,3,Chennai,COD,2023-06-27,115530.0
+OD000545,CUST0130,Customer 65,Grocery & Staples,3,Chennai,Debit Card,2023-06-27,8190.0
+OD000975,CUST0297,Customer 61,Appliances,1,Kolkata,Credit Card,2023-06-28,8550.0
+OD000580,CUST0259,Customer 306,Electronics,3,Hyderabad,COD,2023-06-28,110460.0
+OD000639,CUST0365,Customer 311,Electronics,2,Kolkata,Net Banking,2023-06-28,102380.0
+OD000066,CUST0261,Customer 448,Furniture,3,Lucknow,Credit Card,2023-06-29,87150.0
+OD000357,CUST0290,Customer 452,Grocery & Staples,2,Delhi,Credit Card,2023-06-29,4740.0
+OD000708,CUST0189,Customer 408,Books & Stationery,1,Mumbai,COD,2023-06-29,820.0
+OD000111,CUST0245,Customer 154,Home & Kitchen,1,Pune,COD,2023-06-30,4050.0
+OD000683,CUST0205,Customer 348,Mobile Phones,4,Hyderabad,Debit Card,2023-06-30,172120.0
+OD000322,CUST0019,Customer 451,Electronics,2,Jaipur,Credit Card,2023-07-01,114260.0
+OD000186,CUST0014,Customer 356,Mobile Phones,2,Bangalore,Debit Card,2023-07-01,75680.0
+OD000481,CUST0148,Customer 233,Electronics,2,Ahmedabad,Credit Card,2023-07-01,127500.0
+OD000110,CUST0304,Customer 178,Mobile Phones,2,Jaipur,COD,2023-07-01,57340.0
+OD000479,CUST0350,Customer 469,Fashion,3,Delhi,UPI,2023-07-01,12480.0
+OD000906,CUST0054,Customer 380,Books & Stationery,3,Kolkata,Net Banking,2023-07-01,1740.0
+OD000084,CUST0466,Customer 44,Mobile Phones,1,Chennai,Credit Card,2023-07-02,35920.0
+OD000923,CUST0437,Customer 39,Sports & Fitness,4,Delhi,Debit Card,2023-07-03,10360.0
+OD000288,CUST0370,Customer 213,Sports & Fitness,3,Kolkata,Net Banking,2023-07-03,12240.0
+OD000133,CUST0450,Customer 425,Electronics,1,Bangalore,COD,2023-07-03,6880.0
+OD000019,CUST0490,Customer 299,Books & Stationery,1,Delhi,COD,2023-07-04,450.0
+OD000461,CUST0445,Customer 96,Grocery & Staples,1,Ahmedabad,Credit Card,2023-07-04,1910.0
+OD000325,CUST0490,Customer 87,Books & Stationery,3,Jaipur,COD,2023-07-04,3360.0
+OD000573,CUST0319,Customer 30,Grocery & Staples,2,Pune,UPI,2023-07-04,3280.0
+OD000548,CUST0011,Customer 205,Electronics,1,Chennai,UPI,2023-07-04,70820.0
+OD000065,CUST0495,Customer 135,Sports & Fitness,1,Pune,Credit Card,2023-07-05,8280.0
+OD000437,CUST0067,Customer 279,Fashion,1,Bangalore,Net Banking,2023-07-05,3830.0
+OD000880,CUST0097,Customer 377,Sports & Fitness,1,Mumbai,Credit Card,2023-07-05,5730.0
+OD000571,CUST0392,Customer 67,Sports & Fitness,1,Bangalore,UPI,2023-07-05,7430.0
+OD000098,CUST0086,Customer 204,Home & Kitchen,1,Chennai,Debit Card,2023-07-06,3060.0
+OD000193,CUST0161,Customer 106,Books & Stationery,3,Lucknow,Net Banking,2023-07-07,2610.0
+OD000454,CUST0279,Customer 468,Fashion,2,Mumbai,Debit Card,2023-07-07,1740.0
+OD000601,CUST0486,Customer 475,Grocery & Staples,4,Mumbai,COD,2023-07-07,8040.0
+OD000999,CUST0317,Customer 96,Beauty & Personal Care,4,Lucknow,COD,2023-07-07,960.0
+OD000113,CUST0310,Customer 209,Appliances,4,Chennai,COD,2023-07-07,126760.0
+OD000207,CUST0217,Customer 223,Electronics,3,Kolkata,UPI,2023-07-07,230130.0
+OD000145,CUST0474,Customer 280,Electronics,2,Hyderabad,Net Banking,2023-07-09,123860.0
+OD000778,CUST0413,Customer 32,Beauty & Personal Care,4,Chennai,COD,2023-07-09,4520.0
+OD000835,CUST0114,Customer 201,Grocery & Staples,1,Jaipur,COD,2023-07-10,810.0
+OD000014,CUST0257,Customer 207,Grocery & Staples,2,Delhi,COD,2023-07-11,5340.0
+OD000074,CUST0150,Customer 278,Fashion,2,Chennai,COD,2023-07-11,9600.0
+OD000544,CUST0249,Customer 74,Books & Stationery,4,Jaipur,Net Banking,2023-07-12,4480.0
+OD000622,CUST0072,Customer 459,Sports & Fitness,3,Delhi,Net Banking,2023-07-12,16440.0
+OD000078,CUST0384,Customer 326,Home & Kitchen,4,Hyderabad,Net Banking,2023-07-12,22160.0
+OD000432,CUST0192,Customer 475,Fashion,1,Mumbai,Debit Card,2023-07-13,1960.0
+OD000567,CUST0160,Customer 271,Fashion,1,Lucknow,Debit Card,2023-07-13,760.0
+OD000679,CUST0359,Customer 86,Mobile Phones,1,Lucknow,UPI,2023-07-13,49830.0
+OD000693,CUST0337,Customer 24,Home & Kitchen,2,Ahmedabad,Credit Card,2023-07-14,12320.0
+OD000402,CUST0009,Customer 229,Mobile Phones,2,Pune,COD,2023-07-15,23500.0
+OD000271,CUST0438,Customer 127,Grocery & Staples,3,Hyderabad,Net Banking,2023-07-15,3120.0
+OD000220,CUST0431,Customer 310,Mobile Phones,3,Mumbai,Net Banking,2023-07-15,35940.0
+OD000091,CUST0386,Customer 140,Mobile Phones,4,Lucknow,Debit Card,2023-07-16,157200.0
+OD000938,CUST0263,Customer 198,Furniture,3,Bangalore,UPI,2023-07-16,108270.0
+OD000756,CUST0331,Customer 155,Mobile Phones,3,Ahmedabad,Credit Card,2023-07-17,54630.0
+OD000384,CUST0494,Customer 357,Grocery & Staples,3,Lucknow,Debit Card,2023-07-18,7800.0
+OD000431,CUST0155,Customer 459,Electronics,4,Delhi,Net Banking,2023-07-18,278680.0
+OD000640,CUST0327,Customer 395,Mobile Phones,4,Chennai,COD,2023-07-18,198240.0
+OD000320,CUST0417,Customer 219,Electronics,4,Pune,COD,2023-07-18,124400.0
+OD000350,CUST0106,Customer 429,Appliances,2,Delhi,UPI,2023-07-19,85060.0
+OD000280,CUST0414,Customer 16,Grocery & Staples,2,Pune,Debit Card,2023-07-19,4400.0
+OD000528,CUST0129,Customer 500,Sports & Fitness,2,Bangalore,Credit Card,2023-07-19,4360.0
+OD000386,CUST0208,Customer 302,Appliances,4,Ahmedabad,UPI,2023-07-19,39320.0
+OD000450,CUST0203,Customer 6,Fashion,3,Ahmedabad,UPI,2023-07-19,2130.0
+OD000653,CUST0330,Customer 416,Beauty & Personal Care,3,Pune,COD,2023-07-20,5160.0
+OD000797,CUST0041,Customer 54,Mobile Phones,3,Lucknow,COD,2023-07-20,117840.0
+OD000729,CUST0497,Customer 43,Grocery & Staples,4,Jaipur,UPI,2023-07-21,10920.0
+OD000448,CUST0039,Customer 376,Mobile Phones,2,Ahmedabad,COD,2023-07-21,20000.0
+OD000226,CUST0435,Customer 273,Appliances,4,Delhi,UPI,2023-07-21,250040.0
+OD000553,CUST0414,Customer 290,Fashion,3,Pune,COD,2023-07-21,14040.0
+OD000353,CUST0164,Customer 201,Home & Kitchen,3,Ahmedabad,Credit Card,2023-07-21,35820.0
+OD000436,CUST0290,Customer 438,Sports & Fitness,3,Mumbai,Debit Card,2023-07-21,18600.0
+OD000971,CUST0005,Customer 390,Beauty & Personal Care,4,Hyderabad,UPI,2023-07-21,4200.0
+OD000644,CUST0472,Customer 427,Fashion,3,Pune,UPI,2023-07-22,9900.0
+OD000533,CUST0075,Customer 335,Fashion,3,Hyderabad,Net Banking,2023-07-22,11430.0
+OD000489,CUST0481,Customer 43,Grocery & Staples,4,Bangalore,UPI,2023-07-23,5600.0
+OD000579,CUST0086,Customer 221,Beauty & Personal Care,1,Kolkata,Net Banking,2023-07-23,1730.0
+OD000864,CUST0221,Customer 210,Furniture,1,Hyderabad,UPI,2023-07-23,32280.0
+OD000664,CUST0164,Customer 498,Mobile Phones,2,Hyderabad,UPI,2023-07-23,84680.0
+OD000008,CUST0381,Customer 278,Electronics,4,Delhi,COD,2023-07-23,220680.0
+OD000540,CUST0046,Customer 57,Fashion,1,Kolkata,UPI,2023-07-24,1500.0
+OD000823,CUST0205,Customer 413,Electronics,3,Jaipur,Credit Card,2023-07-24,166560.0
+OD000787,CUST0079,Customer 209,Sports & Fitness,1,Jaipur,COD,2023-07-24,6330.0
+OD000783,CUST0028,Customer 468,Home & Kitchen,3,Bangalore,Debit Card,2023-07-25,39600.0
+OD000399,CUST0472,Customer 405,Grocery & Staples,4,Delhi,UPI,2023-07-25,9280.0
+OD000292,CUST0114,Customer 339,Mobile Phones,4,Lucknow,UPI,2023-07-26,79200.0
+OD000691,CUST0393,Customer 48,Mobile Phones,3,Bangalore,Debit Card,2023-07-27,25920.0
+OD000768,CUST0040,Customer 66,Sports & Fitness,2,Bangalore,UPI,2023-07-27,4860.0
+OD000224,CUST0023,Customer 427,Beauty & Personal Care,1,Mumbai,COD,2023-07-28,1920.0
+OD000912,CUST0175,Customer 92,Furniture,3,Mumbai,Net Banking,2023-07-28,53610.0
+OD000965,CUST0063,Customer 345,Grocery & Staples,4,Kolkata,Net Banking,2023-07-29,11360.0
+OD001000,CUST0176,Customer 62,Grocery & Staples,2,Lucknow,Debit Card,2023-07-29,4340.0
+OD000595,CUST0337,Customer 209,Appliances,4,Chennai,UPI,2023-07-29,43640.0
+OD000524,CUST0188,Customer 320,Books & Stationery,4,Pune,Net Banking,2023-07-29,5200.0
+OD000397,CUST0479,Customer 184,Fashion,2,Pune,Net Banking,2023-07-29,6740.0
+OD000509,CUST0263,Customer 31,Appliances,3,Mumbai,COD,2023-07-31,42120.0
+OD000605,CUST0226,Customer 459,Sports & Fitness,2,Ahmedabad,Net Banking,2023-07-31,12340.0
+OD000588,CUST0130,Customer 324,Home & Kitchen,2,Ahmedabad,Net Banking,2023-07-31,16940.0
+OD000820,CUST0441,Customer 309,Furniture,1,Delhi,Net Banking,2023-08-01,15390.0
+OD000987,CUST0095,Customer 224,Furniture,1,Lucknow,UPI,2023-08-01,47380.0
+OD000339,CUST0499,Customer 376,Sports & Fitness,3,Chennai,Credit Card,2023-08-02,4770.0
+OD000650,CUST0438,Customer 91,Home & Kitchen,2,Hyderabad,Credit Card,2023-08-02,21000.0
+OD000546,CUST0356,Customer 149,Appliances,4,Delhi,UPI,2023-08-03,271880.0
+OD000630,CUST0384,Customer 209,Appliances,4,Bangalore,Credit Card,2023-08-03,46720.0
+OD000983,CUST0186,Customer 212,Appliances,4,Delhi,Credit Card,2023-08-03,314560.0
+OD000602,CUST0037,Customer 17,Beauty & Personal Care,4,Chennai,Net Banking,2023-08-03,3080.0
+OD000996,CUST0036,Customer 192,Appliances,2,Kolkata,Debit Card,2023-08-04,100840.0
+OD000825,CUST0025,Customer 415,Sports & Fitness,4,Chennai,UPI,2023-08-04,39600.0
+OD000731,CUST0336,Customer 205,Books & Stationery,1,Bangalore,Credit Card,2023-08-04,1410.0
+OD000363,CUST0083,Customer 138,Electronics,4,Kolkata,Net Banking,2023-08-04,226480.0
+OD000821,CUST0477,Customer 142,Fashion,4,Mumbai,UPI,2023-08-04,7080.0
+OD000643,CUST0050,Customer 479,Grocery & Staples,3,Pune,Debit Card,2023-08-04,7080.0
+OD000772,CUST0253,Customer 63,Mobile Phones,1,Kolkata,UPI,2023-08-05,28820.0
+OD000549,CUST0273,Customer 112,Home & Kitchen,2,Mumbai,Debit Card,2023-08-06,8460.0
+OD000365,CUST0249,Customer 311,Beauty & Personal Care,4,Chennai,Net Banking,2023-08-06,2440.0
+OD000765,CUST0277,Customer 487,Home & Kitchen,3,Jaipur,Credit Card,2023-08-06,9810.0
+OD000814,CUST0365,Customer 451,Sports & Fitness,1,Kolkata,Credit Card,2023-08-06,3520.0
+OD000465,CUST0483,Customer 349,Furniture,2,Pune,Debit Card,2023-08-07,48820.0
+OD000286,CUST0173,Customer 257,Appliances,1,Ahmedabad,COD,2023-08-07,63750.0
+OD000701,CUST0270,Customer 465,Sports & Fitness,4,Hyderabad,Net Banking,2023-08-08,5000.0
+OD000829,CUST0420,Customer 453,Appliances,1,Bangalore,Credit Card,2023-08-08,44680.0
+OD000485,CUST0088,Customer 496,Appliances,3,Mumbai,UPI,2023-08-08,70740.0
+OD000391,CUST0064,Customer 394,Books & Stationery,3,Lucknow,Credit Card,2023-08-08,3540.0
+OD000557,CUST0008,Customer 407,Home & Kitchen,3,Mumbai,Net Banking,2023-08-09,31590.0
+OD000403,CUST0037,Customer 98,Appliances,3,Lucknow,Credit Card,2023-08-09,227760.0
+OD000699,CUST0145,Customer 459,Home & Kitchen,4,Bangalore,Debit Card,2023-08-10,10560.0
+OD000675,CUST0428,Customer 180,Sports & Fitness,4,Mumbai,UPI,2023-08-11,7440.0
+OD000387,CUST0215,Customer 213,Home & Kitchen,2,Lucknow,UPI,2023-08-11,20440.0
+OD000305,CUST0291,Customer 388,Electronics,2,Hyderabad,UPI,2023-08-11,62780.0
+OD000395,CUST0001,Customer 1,Fashion,4,Pune,COD,2023-08-11,16240.0
+OD000039,CUST0052,Customer 377,Home & Kitchen,4,Bangalore,COD,2023-08-11,57920.0
+OD000277,CUST0187,Customer 329,Mobile Phones,1,Chennai,COD,2023-08-12,49820.0
+OD000955,CUST0237,Customer 388,Grocery & Staples,1,Jaipur,COD,2023-08-12,2080.0
+OD000155,CUST0233,Customer 447,Appliances,3,Ahmedabad,Credit Card,2023-08-12,178830.0
+OD000323,CUST0026,Customer 310,Appliances,2,Jaipur,Debit Card,2023-08-12,109860.0
+OD000704,CUST0041,Customer 270,Sports & Fitness,3,Ahmedabad,Net Banking,2023-08-12,23550.0
+OD000852,CUST0313,Customer 424,Appliances,2,Delhi,Net Banking,2023-08-13,132720.0
+OD000341,CUST0435,Customer 265,Appliances,4,Pune,Debit Card,2023-08-13,201080.0
+OD000558,CUST0495,Customer 401,Fashion,1,Ahmedabad,Net Banking,2023-08-13,970.0
+OD000212,CUST0294,Customer 123,Home & Kitchen,1,Kolkata,Net Banking,2023-08-14,6760.0
+OD000721,CUST0044,Customer 21,Beauty & Personal Care,3,Delhi,Net Banking,2023-08-14,2880.0
+OD000366,CUST0088,Customer 88,Mobile Phones,2,Lucknow,COD,2023-08-14,41220.0
+OD000800,CUST0167,Customer 26,Home & Kitchen,2,Mumbai,Debit Card,2023-08-16,18400.0
+OD000552,CUST0164,Customer 160,Electronics,3,Hyderabad,UPI,2023-08-17,182490.0
+OD000180,CUST0427,Customer 325,Sports & Fitness,4,Lucknow,UPI,2023-08-17,18160.0
+OD000442,CUST0098,Customer 440,Mobile Phones,4,Chennai,Net Banking,2023-08-17,148440.0
+OD000564,CUST0323,Customer 310,Mobile Phones,3,Chennai,UPI,2023-08-17,81570.0
+OD000393,CUST0471,Customer 255,Books & Stationery,2,Jaipur,Debit Card,2023-08-17,1480.0
+OD000409,CUST0285,Customer 434,Furniture,3,Chennai,UPI,2023-08-18,119010.0
+OD000042,CUST0431,Customer 308,Sports & Fitness,1,Ahmedabad,Credit Card,2023-08-18,4780.0
+OD000568,CUST0272,Customer 350,Home & Kitchen,2,Delhi,Debit Card,2023-08-19,17580.0
+OD000970,CUST0421,Customer 163,Books & Stationery,1,Lucknow,Credit Card,2023-08-19,900.0
+OD000434,CUST0328,Customer 233,Beauty & Personal Care,2,Kolkata,UPI,2023-08-19,2540.0
+OD000555,CUST0415,Customer 189,Appliances,2,Jaipur,UPI,2023-08-19,29380.0
+OD000684,CUST0108,Customer 294,Grocery & Staples,4,Jaipur,Credit Card,2023-08-21,5600.0
+OD000515,CUST0042,Customer 380,Mobile Phones,2,Pune,Net Banking,2023-08-21,73280.0
+OD000822,CUST0088,Customer 278,Appliances,3,Chennai,COD,2023-08-21,196950.0
+OD000496,CUST0128,Customer 368,Books & Stationery,3,Hyderabad,UPI,2023-08-22,930.0
+OD000723,CUST0489,Customer 344,Furniture,1,Kolkata,Debit Card,2023-08-23,21920.0
+OD000752,CUST0450,Customer 413,Mobile Phones,2,Kolkata,UPI,2023-08-23,77480.0
+OD000190,CUST0301,Customer 177,Beauty & Personal Care,3,Delhi,COD,2023-08-23,660.0
+OD000645,CUST0383,Customer 482,Fashion,1,Chennai,Credit Card,2023-08-23,2710.0
+OD000426,CUST0155,Customer 34,Appliances,2,Hyderabad,Credit Card,2023-08-24,42880.0
+OD000631,CUST0420,Customer 387,Appliances,4,Chennai,Credit Card,2023-08-24,284440.0
+OD000460,CUST0485,Customer 243,Furniture,2,Jaipur,COD,2023-08-24,48100.0
+OD000632,CUST0229,Customer 264,Books & Stationery,4,Lucknow,UPI,2023-08-26,2160.0
+OD000254,CUST0441,Customer 126,Home & Kitchen,4,Bangalore,Debit Card,2023-08-26,44520.0
+OD000411,CUST0303,Customer 456,Beauty & Personal Care,2,Mumbai,Credit Card,2023-08-26,860.0
+OD000918,CUST0274,Customer 1,Home & Kitchen,2,Lucknow,Net Banking,2023-08-28,5160.0
+OD000165,CUST0432,Customer 204,Mobile Phones,3,Jaipur,COD,2023-08-28,48930.0
+OD000069,CUST0424,Customer 171,Mobile Phones,2,Lucknow,UPI,2023-08-28,57400.0
+OD000993,CUST0257,Customer 18,Electronics,2,Jaipur,UPI,2023-08-28,77860.0
+OD000204,CUST0011,Customer 226,Beauty & Personal Care,4,Lucknow,Credit Card,2023-08-28,3840.0
+OD000929,CUST0439,Customer 456,Appliances,4,Lucknow,Credit Card,2023-08-28,177360.0
+OD000810,CUST0044,Customer 51,Beauty & Personal Care,4,Jaipur,COD,2023-08-28,1120.0
+OD000127,CUST0438,Customer 271,Books & Stationery,3,Kolkata,Net Banking,2023-08-29,4410.0
+OD000446,CUST0444,Customer 378,Beauty & Personal Care,1,Lucknow,Credit Card,2023-08-29,1660.0
+OD000151,CUST0378,Customer 72,Appliances,2,Bangalore,Debit Card,2023-08-29,30780.0
+OD000433,CUST0396,Customer 161,Sports & Fitness,1,Lucknow,Credit Card,2023-08-29,9450.0
+OD000219,CUST0170,Customer 204,Electronics,3,Delhi,COD,2023-08-30,61140.0
+OD000311,CUST0349,Customer 382,Furniture,3,Ahmedabad,UPI,2023-08-30,85860.0
+OD000833,CUST0015,Customer 11,Beauty & Personal Care,4,Mumbai,Net Banking,2023-08-31,1400.0
+OD000570,CUST0249,Customer 155,Appliances,2,Pune,COD,2023-08-31,69220.0
+OD000003,CUST0202,Customer 286,Electronics,1,Hyderabad,Net Banking,2023-08-31,9150.0
+OD000040,CUST0288,Customer 151,Sports & Fitness,1,Pune,Net Banking,2023-09-01,8310.0
+OD000773,CUST0347,Customer 369,Mobile Phones,3,Chennai,UPI,2023-09-02,107760.0
+OD000728,CUST0046,Customer 477,Appliances,2,Bangalore,Debit Card,2023-09-03,115120.0
+OD000333,CUST0241,Customer 132,Books & Stationery,3,Bangalore,Net Banking,2023-09-03,870.0
+OD000795,CUST0380,Customer 95,Home & Kitchen,2,Mumbai,UPI,2023-09-04,25160.0
+OD000896,CUST0282,Customer 300,Beauty & Personal Care,4,Ahmedabad,UPI,2023-09-04,720.0
+OD000157,CUST0076,Customer 453,Beauty & Personal Care,4,Chennai,UPI,2023-09-04,720.0
+OD000803,CUST0486,Customer 161,Electronics,3,Hyderabad,Credit Card,2023-09-04,205860.0
+OD000294,CUST0130,Customer 102,Beauty & Personal Care,2,Chennai,Net Banking,2023-09-05,1180.0
+OD000076,CUST0173,Customer 101,Home & Kitchen,2,Jaipur,UPI,2023-09-06,15020.0
+OD000174,CUST0447,Customer 273,Beauty & Personal Care,2,Ahmedabad,Net Banking,2023-09-07,3300.0
+OD000274,CUST0228,Customer 324,Home & Kitchen,2,Jaipur,Net Banking,2023-09-07,24840.0
+OD000285,CUST0251,Customer 317,Appliances,3,Mumbai,UPI,2023-09-07,78300.0
+OD000161,CUST0133,Customer 161,Fashion,3,Delhi,Debit Card,2023-09-09,8550.0
+OD000077,CUST0247,Customer 397,Grocery & Staples,3,Pune,Debit Card,2023-09-09,8670.0
+OD000073,CUST0268,Customer 48,Furniture,3,Delhi,Net Banking,2023-09-09,90570.0
+OD000401,CUST0436,Customer 372,Home & Kitchen,1,Chennai,UPI,2023-09-10,14490.0
+OD000646,CUST0092,Customer 147,Mobile Phones,1,Kolkata,COD,2023-09-11,26330.0
+OD000569,CUST0469,Customer 46,Books & Stationery,3,Hyderabad,COD,2023-09-12,990.0
+OD000635,CUST0020,Customer 91,Home & Kitchen,1,Hyderabad,COD,2023-09-12,5510.0
+OD000474,CUST0312,Customer 461,Fashion,2,Kolkata,COD,2023-09-13,7700.0
+OD000612,CUST0117,Customer 258,Grocery & Staples,4,Lucknow,COD,2023-09-13,6800.0
+OD000406,CUST0432,Customer 165,Furniture,2,Jaipur,UPI,2023-09-13,81620.0
+OD000500,CUST0332,Customer 395,Electronics,4,Mumbai,Net Banking,2023-09-14,163480.0
+OD000593,CUST0450,Customer 340,Beauty & Personal Care,4,Jaipur,COD,2023-09-14,4000.0
+OD000984,CUST0482,Customer 283,Grocery & Staples,2,Delhi,Debit Card,2023-09-14,5600.0
+OD000576,CUST0202,Customer 246,Home & Kitchen,3,Pune,Credit Card,2023-09-14,30660.0
+OD000063,CUST0226,Customer 262,Electronics,3,Bangalore,Net Banking,2023-09-14,146250.0
+OD000861,CUST0065,Customer 400,Mobile Phones,3,Chennai,Credit Card,2023-09-15,24690.0
+OD000760,CUST0072,Customer 389,Beauty & Personal Care,3,Pune,Credit Card,2023-09-15,1800.0
+OD000369,CUST0258,Customer 334,Home & Kitchen,4,Bangalore,COD,2023-09-15,56320.0
+OD000482,CUST0418,Customer 289,Home & Kitchen,1,Ahmedabad,Net Banking,2023-09-15,11170.0
+OD000508,CUST0284,Customer 37,Mobile Phones,3,Bangalore,Net Banking,2023-09-15,93840.0
+OD000681,CUST0170,Customer 242,Appliances,4,Jaipur,Credit Card,2023-09-15,285760.0
+OD000629,CUST0095,Customer 189,Mobile Phones,2,Ahmedabad,UPI,2023-09-16,94600.0
+OD000952,CUST0453,Customer 14,Fashion,3,Ahmedabad,Credit Card,2023-09-16,8910.0
+OD000498,CUST0392,Customer 294,Home & Kitchen,1,Mumbai,Net Banking,2023-09-16,6890.0
+OD000566,CUST0451,Customer 6,Electronics,1,Ahmedabad,Debit Card,2023-09-17,69800.0
+OD000934,CUST0136,Customer 311,Sports & Fitness,1,Ahmedabad,UPI,2023-09-17,850.0
+OD000886,CUST0384,Customer 188,Mobile Phones,2,Delhi,UPI,2023-09-17,86140.0
+OD000843,CUST0118,Customer 410,Home & Kitchen,4,Mumbai,Net Banking,2023-09-17,16240.0
+OD000692,CUST0181,Customer 159,Fashion,2,Lucknow,Credit Card,2023-09-18,7740.0
+OD000242,CUST0497,Customer 129,Grocery & Staples,3,Ahmedabad,Net Banking,2023-09-18,930.0
+OD000020,CUST0405,Customer 475,Beauty & Personal Care,2,Jaipur,Credit Card,2023-09-18,400.0
+OD000352,CUST0387,Customer 15,Books & Stationery,1,Mumbai,COD,2023-09-19,900.0
+OD000024,CUST0029,Customer 17,Electronics,1,Pune,Debit Card,2023-09-19,34810.0
+OD000494,CUST0154,Customer 149,Mobile Phones,4,Pune,UPI,2023-09-19,41080.0
+OD000231,CUST0384,Customer 119,Beauty & Personal Care,4,Delhi,Net Banking,2023-09-19,1560.0
+OD000757,CUST0260,Customer 170,Electronics,1,Bangalore,UPI,2023-09-21,30950.0
+OD000914,CUST0062,Customer 478,Sports & Fitness,4,Chennai,UPI,2023-09-21,14120.0
+OD000418,CUST0222,Customer 480,Fashion,4,Bangalore,UPI,2023-09-21,11960.0
+OD000128,CUST0377,Customer 404,Sports & Fitness,3,Hyderabad,UPI,2023-09-22,14370.0
+OD000449,CUST0141,Customer 452,Beauty & Personal Care,3,Jaipur,Debit Card,2023-09-22,5820.0
+OD000969,CUST0478,Customer 291,Mobile Phones,3,Mumbai,Net Banking,2023-09-22,64560.0
+OD000158,CUST0447,Customer 292,Electronics,2,Ahmedabad,Credit Card,2023-09-22,19380.0
+OD000847,CUST0400,Customer 273,Appliances,2,Hyderabad,Credit Card,2023-09-23,150060.0
+OD000816,CUST0322,Customer 247,Home & Kitchen,4,Pune,UPI,2023-09-24,3480.0
+OD000774,CUST0028,Customer 15,Sports & Fitness,1,Lucknow,UPI,2023-09-24,9900.0
+OD000973,CUST0157,Customer 431,Sports & Fitness,1,Lucknow,COD,2023-09-24,9700.0
+OD000016,CUST0235,Customer 321,Beauty & Personal Care,3,Bangalore,Debit Card,2023-09-25,4560.0
+OD000068,CUST0104,Customer 339,Appliances,1,Jaipur,Debit Card,2023-09-26,21090.0
+OD000539,CUST0305,Customer 432,Sports & Fitness,4,Hyderabad,Net Banking,2023-09-26,24080.0
+OD000604,CUST0198,Customer 264,Grocery & Staples,1,Hyderabad,UPI,2023-09-26,1120.0
+OD000249,CUST0151,Customer 470,Sports & Fitness,3,Lucknow,UPI,2023-09-27,11010.0
+OD000615,CUST0110,Customer 283,Home & Kitchen,4,Chennai,Credit Card,2023-09-27,58920.0
+OD000048,CUST0143,Customer 167,Beauty & Personal Care,1,Hyderabad,Credit Card,2023-09-28,780.0
+OD000289,CUST0086,Customer 323,Grocery & Staples,3,Lucknow,Net Banking,2023-09-28,6090.0
+OD000301,CUST0083,Customer 352,Electronics,2,Lucknow,UPI,2023-09-28,64840.0
+OD000349,CUST0059,Customer 46,Grocery & Staples,3,Mumbai,COD,2023-09-29,4890.0
+OD000107,CUST0146,Customer 7,Electronics,2,Chennai,COD,2023-09-29,105820.0
+OD000132,CUST0171,Customer 399,Books & Stationery,1,Ahmedabad,COD,2023-09-29,1150.0
+OD000284,CUST0419,Customer 478,Grocery & Staples,4,Lucknow,COD,2023-09-29,1280.0
+OD000597,CUST0185,Customer 309,Books & Stationery,3,Kolkata,UPI,2023-09-29,690.0
+OD000678,CUST0445,Customer 203,Beauty & Personal Care,3,Mumbai,Net Banking,2023-09-29,900.0
+OD000575,CUST0180,Customer 442,Books & Stationery,1,Delhi,COD,2023-09-29,1490.0
+OD000561,CUST0135,Customer 234,Furniture,1,Mumbai,Debit Card,2023-09-30,28410.0
+OD000893,CUST0108,Customer 448,Books & Stationery,3,Delhi,Credit Card,2023-09-30,2970.0
+OD000172,CUST0392,Customer 106,Furniture,2,Lucknow,Debit Card,2023-09-30,38120.0
+OD000981,CUST0411,Customer 367,Furniture,3,Ahmedabad,COD,2023-10-01,16896.0
+OD000415,CUST0351,Customer 437,Beauty & Personal Care,3,Kolkata,Net Banking,2023-10-01,4296.0
+OD000824,CUST0315,Customer 386,Electronics,2,Lucknow,Credit Card,2023-10-01,1824.0
+OD000368,CUST0121,Customer 175,Mobile Phones,2,Hyderabad,Credit Card,2023-10-01,43664.0
+OD000522,CUST0018,Customer 312,Electronics,2,Delhi,UPI,2023-10-01,91264.0
+OD000214,CUST0230,Customer 463,Grocery & Staples,1,Bangalore,UPI,2023-10-02,1360.0
+OD000648,CUST0455,Customer 68,Appliances,1,Delhi,Net Banking,2023-10-02,11272.0
+OD000505,CUST0054,Customer 103,Furniture,3,Lucknow,UPI,2023-10-03,35232.0
+OD000956,CUST0496,Customer 56,Grocery & Staples,1,Chennai,Credit Card,2023-10-03,1792.0
+OD000198,CUST0457,Customer 328,Furniture,3,Delhi,UPI,2023-10-05,30672.0
+OD000637,CUST0270,Customer 474,Fashion,3,Chennai,UPI,2023-10-05,11088.0
+OD000746,CUST0277,Customer 175,Grocery & Staples,3,Chennai,COD,2023-10-06,2376.0
+OD000980,CUST0075,Customer 270,Fashion,4,Bangalore,Debit Card,2023-10-06,14528.0
+OD000018,CUST0072,Customer 12,Home & Kitchen,2,Ahmedabad,Net Banking,2023-10-06,22448.0
+OD000260,CUST0005,Customer 229,Home & Kitchen,3,Lucknow,Credit Card,2023-10-06,32544.0
+OD000208,CUST0163,Customer 394,Home & Kitchen,3,Chennai,Credit Card,2023-10-07,27912.0
+OD000688,CUST0029,Customer 87,Mobile Phones,4,Mumbai,COD,2023-10-07,55392.0
+OD000562,CUST0484,Customer 83,Sports & Fitness,4,Delhi,COD,2023-10-07,23648.0
+OD000319,CUST0027,Customer 145,Furniture,2,Pune,UPI,2023-10-07,14912.0
+OD000744,CUST0357,Customer 179,Books & Stationery,4,Hyderabad,Net Banking,2023-10-08,2880.0
+OD000149,CUST0442,Customer 142,Beauty & Personal Care,2,Kolkata,COD,2023-10-08,2688.0
+OD000135,CUST0172,Customer 159,Books & Stationery,3,Pune,COD,2023-10-08,1392.0
+OD000961,CUST0140,Customer 239,Books & Stationery,2,Delhi,Net Banking,2023-10-08,1504.0
+OD000372,CUST0436,Customer 102,Sports & Fitness,1,Mumbai,Net Banking,2023-10-08,3656.0
+OD000560,CUST0273,Customer 104,Books & Stationery,4,Hyderabad,Credit Card,2023-10-08,4000.0
+OD000239,CUST0494,Customer 211,Grocery & Staples,2,Chennai,Credit Card,2023-10-09,3680.0
+OD000626,CUST0346,Customer 403,Grocery & Staples,1,Hyderabad,UPI,2023-10-09,256.0
+OD000591,CUST0260,Customer 171,Books & Stationery,1,Mumbai,Net Banking,2023-10-09,1152.0
+OD000304,CUST0246,Customer 207,Grocery & Staples,3,Lucknow,COD,2023-10-09,864.0
+OD000968,CUST0355,Customer 253,Mobile Phones,1,Lucknow,Net Banking,2023-10-09,32016.0
+OD000312,CUST0500,Customer 461,Beauty & Personal Care,3,Hyderabad,Credit Card,2023-10-10,4056.0
+OD000715,CUST0418,Customer 381,Electronics,2,Lucknow,COD,2023-10-11,104240.0
+OD000960,CUST0276,Customer 328,Fashion,1,Hyderabad,Credit Card,2023-10-11,2040.0
+OD000899,CUST0363,Customer 165,Home & Kitchen,3,Ahmedabad,Net Banking,2023-10-12,2712.0
+OD000851,CUST0217,Customer 258,Books & Stationery,2,Pune,Net Banking,2023-10-12,896.0
+OD000811,CUST0490,Customer 31,Sports & Fitness,2,Ahmedabad,COD,2023-10-12,6160.0
+OD000492,CUST0127,Customer 180,Home & Kitchen,3,Delhi,Credit Card,2023-10-13,7152.0
+OD000475,CUST0015,Customer 100,Books & Stationery,4,Lucknow,UPI,2023-10-14,1856.0
+OD000594,CUST0282,Customer 493,Mobile Phones,2,Mumbai,Net Banking,2023-10-14,44112.0
+OD000948,CUST0004,Customer 263,Fashion,1,Kolkata,Net Banking,2023-10-14,1632.0
+OD000617,CUST0228,Customer 183,Sports & Fitness,3,Jaipur,Debit Card,2023-10-14,5688.0
+OD000988,CUST0159,Customer 112,Books & Stationery,4,Bangalore,UPI,2023-10-15,3648.0
+OD000995,CUST0265,Customer 478,Electronics,4,Lucknow,Net Banking,2023-10-16,166944.0
+OD000913,CUST0058,Customer 388,Fashion,1,Hyderabad,Net Banking,2023-10-16,1664.0
+OD000531,CUST0224,Customer 439,Electronics,1,Jaipur,Debit Card,2023-10-17,34064.0
+OD000559,CUST0410,Customer 476,Grocery & Staples,4,Chennai,Debit Card,2023-10-17,1440.0
+OD000695,CUST0408,Customer 349,Fashion,2,Kolkata,COD,2023-10-17,4336.0
+OD000085,CUST0498,Customer 218,Sports & Fitness,2,Kolkata,UPI,2023-10-17,3856.0
+OD000025,CUST0026,Customer 65,Furniture,1,Bangalore,Net Banking,2023-10-17,6040.0
+OD000250,CUST0082,Customer 48,Appliances,2,Chennai,Debit Card,2023-10-18,35680.0
+OD000507,CUST0331,Customer 131,Electronics,4,Mumbai,Net Banking,2023-10-18,246624.0
+OD000086,CUST0062,Customer 310,Home & Kitchen,3,Pune,Credit Card,2023-10-18,25152.0
+OD000609,CUST0254,Customer 482,Sports & Fitness,4,Bangalore,Credit Card,2023-10-18,24736.0
+OD000451,CUST0154,Customer 1,Fashion,2,Lucknow,Net Banking,2023-10-19,6160.0
+OD000713,CUST0466,Customer 20,Beauty & Personal Care,4,Lucknow,Credit Card,2023-10-20,4608.0
+OD000828,CUST0083,Customer 498,Grocery & Staples,1,Mumbai,UPI,2023-10-20,208.0
+OD000332,CUST0112,Customer 401,Appliances,4,Kolkata,Net Banking,2023-10-21,76736.0
+OD000850,CUST0163,Customer 487,Sports & Fitness,2,Chennai,Credit Card,2023-10-21,9728.0
+OD000986,CUST0392,Customer 252,Beauty & Personal Care,3,Chennai,Net Banking,2023-10-22,984.0
+OD000300,CUST0119,Customer 41,Appliances,1,Hyderabad,Debit Card,2023-10-22,27160.0
+OD000307,CUST0283,Customer 144,Home & Kitchen,3,Bangalore,Credit Card,2023-10-22,7296.0
+OD000017,CUST0079,Customer 326,Mobile Phones,2,Jaipur,Debit Card,2023-10-23,73280.0
+OD000189,CUST0354,Customer 490,Sports & Fitness,4,Mumbai,Credit Card,2023-10-23,14144.0
+OD000359,CUST0061,Customer 29,Fashion,4,Lucknow,COD,2023-10-23,10272.0
+OD000946,CUST0196,Customer 27,Electronics,2,Lucknow,UPI,2023-10-24,50400.0
+OD000512,CUST0266,Customer 188,Home & Kitchen,3,Kolkata,Net Banking,2023-10-24,17976.0
+OD000169,CUST0361,Customer 202,Sports & Fitness,3,Ahmedabad,Net Banking,2023-10-25,16152.0
+OD000456,CUST0208,Customer 412,Grocery & Staples,1,Hyderabad,Debit Card,2023-10-25,864.0
+OD000213,CUST0402,Customer 423,Beauty & Personal Care,1,Mumbai,Debit Card,2023-10-25,536.0
+OD000763,CUST0316,Customer 373,Fashion,3,Ahmedabad,Credit Card,2023-10-26,5688.0
+OD000925,CUST0209,Customer 303,Fashion,3,Mumbai,Credit Card,2023-10-27,5472.0
+OD000247,CUST0339,Customer 217,Grocery & Staples,2,Pune,Debit Card,2023-10-27,4688.0
+OD000376,CUST0019,Customer 303,Home & Kitchen,3,Delhi,UPI,2023-10-27,17376.0
+OD000808,CUST0030,Customer 91,Grocery & Staples,1,Bangalore,COD,2023-10-28,1168.0
+OD000429,CUST0439,Customer 74,Furniture,1,Delhi,Debit Card,2023-10-28,18456.0
+OD000939,CUST0014,Customer 162,Beauty & Personal Care,2,Lucknow,Credit Card,2023-10-29,560.0
+OD000108,CUST0361,Customer 463,Fashion,3,Mumbai,Credit Card,2023-10-30,5808.0
+OD000867,CUST0284,Customer 289,Fashion,4,Mumbai,Credit Card,2023-10-30,2784.0
+OD000283,CUST0425,Customer 486,Furniture,2,Chennai,COD,2023-10-30,4656.0
+OD000904,CUST0496,Customer 223,Fashion,3,Delhi,UPI,2023-10-31,11640.0
+OD000060,CUST0210,Customer 291,Furniture,1,Kolkata,COD,2023-10-31,20808.0
+OD000627,CUST0299,Customer 122,Sports & Fitness,3,Hyderabad,UPI,2023-11-01,3192.0
+OD000936,CUST0135,Customer 226,Furniture,1,Kolkata,Debit Card,2023-11-01,28672.0
+OD000962,CUST0082,Customer 301,Beauty & Personal Care,1,Mumbai,Credit Card,2023-11-01,1408.0
+OD000030,CUST0129,Customer 283,Fashion,3,Chennai,COD,2023-11-02,2736.0
+OD000556,CUST0092,Customer 323,Fashion,2,Hyderabad,UPI,2023-11-02,2256.0
+OD000532,CUST0317,Customer 34,Furniture,1,Chennai,Debit Card,2023-11-03,2528.0
+OD000725,CUST0354,Customer 237,Electronics,1,Chennai,COD,2023-11-03,13520.0
+OD000315,CUST0165,Customer 241,Books & Stationery,4,Jaipur,Net Banking,2023-11-04,4672.0
+OD000035,CUST0107,Customer 346,Grocery & Staples,1,Mumbai,UPI,2023-11-04,2224.0
+OD000950,CUST0210,Customer 17,Fashion,3,Pune,Debit Card,2023-11-04,11304.0
+OD000430,CUST0464,Customer 56,Fashion,2,Kolkata,Net Banking,2023-11-05,4480.0
+OD000525,CUST0025,Customer 344,Appliances,4,Pune,UPI,2023-11-05,154496.0
+OD000621,CUST0369,Customer 342,Books & Stationery,4,Pune,UPI,2023-11-05,2656.0
+OD000012,CUST0156,Customer 291,Sports & Fitness,1,Pune,Debit Card,2023-11-05,960.0
+OD000972,CUST0378,Customer 257,Mobile Phones,4,Hyderabad,Net Banking,2023-11-05,122592.0
+OD000804,CUST0319,Customer 414,Fashion,2,Bangalore,UPI,2023-11-06,7904.0
+OD000486,CUST0412,Customer 62,Beauty & Personal Care,1,Hyderabad,Debit Card,2023-11-06,1592.0
+OD000813,CUST0041,Customer 302,Beauty & Personal Care,2,Pune,Credit Card,2023-11-07,1248.0
+OD000248,CUST0100,Customer 359,Mobile Phones,3,Ahmedabad,Credit Card,2023-11-07,51912.0
+OD000302,CUST0001,Customer 219,Sports & Fitness,3,Bangalore,Net Banking,2023-11-07,16416.0
+OD000590,CUST0422,Customer 368,Home & Kitchen,3,Mumbai,Net Banking,2023-11-08,22632.0
+OD000959,CUST0119,Customer 124,Mobile Phones,2,Mumbai,Credit Card,2023-11-08,16000.0
+OD000011,CUST0255,Customer 455,Grocery & Staples,2,Lucknow,UPI,2023-11-08,1472.0
+OD000943,CUST0406,Customer 72,Home & Kitchen,3,Pune,Net Banking,2023-11-08,30624.0
+OD000758,CUST0026,Customer 74,Beauty & Personal Care,3,Kolkata,UPI,2023-11-08,4224.0
+OD000053,CUST0122,Customer 12,Fashion,2,Jaipur,COD,2023-11-09,7984.0
+OD000921,CUST0111,Customer 469,Electronics,4,Kolkata,Debit Card,2023-11-09,220128.0
+OD000868,CUST0461,Customer 332,Home & Kitchen,3,Chennai,Credit Card,2023-11-10,18768.0
+OD000440,CUST0348,Customer 273,Fashion,2,Delhi,COD,2023-11-10,5632.0
+OD000360,CUST0490,Customer 118,Home & Kitchen,1,Ahmedabad,Credit Card,2023-11-12,9424.0
+OD000587,CUST0026,Customer 81,Mobile Phones,3,Delhi,Credit Card,2023-11-12,90360.0
+OD000745,CUST0292,Customer 382,Books & Stationery,1,Bangalore,Net Banking,2023-11-12,1008.0
+OD000857,CUST0260,Customer 205,Beauty & Personal Care,3,Jaipur,COD,2023-11-12,3840.0
+OD000873,CUST0424,Customer 416,Beauty & Personal Care,1,Ahmedabad,Debit Card,2023-11-12,296.0
+OD000751,CUST0326,Customer 310,Fashion,4,Kolkata,Debit Card,2023-11-12,6016.0
+OD000097,CUST0499,Customer 499,Electronics,1,Hyderabad,Debit Card,2023-11-12,2968.0
+OD000953,CUST0257,Customer 111,Beauty & Personal Care,4,Kolkata,UPI,2023-11-13,3008.0
+OD000502,CUST0150,Customer 467,Grocery & Staples,2,Pune,Debit Card,2023-11-14,2432.0
+OD000140,CUST0401,Customer 164,Mobile Phones,4,Delhi,Net Banking,2023-11-14,79808.0
+OD000989,CUST0326,Customer 70,Fashion,4,Delhi,COD,2023-11-14,2944.0
+OD000275,CUST0212,Customer 207,Appliances,2,Lucknow,Credit Card,2023-11-15,41584.0
+OD000171,CUST0171,Customer 221,Appliances,2,Pune,COD,2023-11-15,9072.0
+OD000863,CUST0251,Customer 172,Appliances,2,Mumbai,Net Banking,2023-11-15,105536.0
+OD000252,CUST0455,Customer 325,Appliances,1,Bangalore,COD,2023-11-15,39896.0
+OD000483,CUST0337,Customer 73,Home & Kitchen,3,Pune,Credit Card,2023-11-16,11424.0
+OD000144,CUST0315,Customer 217,Fashion,3,Lucknow,Debit Card,2023-11-16,3600.0
+OD000510,CUST0258,Customer 131,Furniture,2,Hyderabad,COD,2023-11-16,12480.0
+OD000090,CUST0290,Customer 402,Sports & Fitness,2,Jaipur,Net Banking,2023-11-17,14528.0
+OD000707,CUST0489,Customer 294,Fashion,3,Ahmedabad,UPI,2023-11-17,7416.0
+OD000660,CUST0394,Customer 212,Electronics,1,Mumbai,COD,2023-11-19,27920.0
+OD000414,CUST0288,Customer 66,Books & Stationery,3,Mumbai,UPI,2023-11-19,1344.0
+OD000070,CUST0078,Customer 368,Fashion,3,Kolkata,UPI,2023-11-20,11448.0
+OD000931,CUST0349,Customer 44,Electronics,1,Hyderabad,Debit Card,2023-11-21,20064.0
+OD000191,CUST0443,Customer 436,Appliances,3,Pune,UPI,2023-11-22,173016.0
+OD000177,CUST0492,Customer 25,Electronics,2,Jaipur,COD,2023-11-22,125280.0
+OD000417,CUST0161,Customer 235,Sports & Fitness,3,Jaipur,UPI,2023-11-22,19176.0
+OD000378,CUST0034,Customer 345,Grocery & Staples,2,Mumbai,Credit Card,2023-11-22,1536.0
+OD000658,CUST0040,Customer 258,Books & Stationery,2,Kolkata,Net Banking,2023-11-23,528.0
+OD000865,CUST0122,Customer 462,Fashion,2,Lucknow,COD,2023-11-23,880.0
+OD000215,CUST0134,Customer 185,Electronics,2,Hyderabad,Credit Card,2023-11-24,77664.0
+OD000940,CUST0452,Customer 341,Electronics,3,Mumbai,Credit Card,2023-11-24,15048.0
+OD000233,CUST0483,Customer 323,Grocery & Staples,1,Kolkata,Net Banking,2023-11-24,2216.0
+OD000356,CUST0450,Customer 442,Books & Stationery,2,Bangalore,UPI,2023-11-24,1824.0
+OD000656,CUST0257,Customer 84,Books & Stationery,3,Jaipur,COD,2023-11-24,1128.0
+OD000979,CUST0363,Customer 291,Fashion,1,Lucknow,COD,2023-11-24,2096.0
+OD000143,CUST0078,Customer 290,Beauty & Personal Care,4,Ahmedabad,Credit Card,2023-11-25,1984.0
+OD000994,CUST0460,Customer 164,Furniture,2,Lucknow,COD,2023-11-25,25280.0
+OD000324,CUST0218,Customer 351,Appliances,3,Ahmedabad,Credit Card,2023-11-26,154704.0
+OD000438,CUST0075,Customer 401,Grocery & Staples,1,Chennai,Credit Card,2023-11-26,840.0
+OD000958,CUST0207,Customer 170,Beauty & Personal Care,2,Delhi,Net Banking,2023-11-26,2496.0
+OD000717,CUST0446,Customer 484,Mobile Phones,3,Kolkata,COD,2023-11-27,36600.0
+OD000405,CUST0457,Customer 309,Beauty & Personal Care,3,Kolkata,Net Banking,2023-11-27,1968.0
+OD000894,CUST0041,Customer 334,Mobile Phones,4,Hyderabad,Credit Card,2023-11-29,90304.0
+OD000628,CUST0149,Customer 185,Fashion,3,Mumbai,UPI,2023-11-29,4032.0
+OD000887,CUST0043,Customer 307,Appliances,3,Bangalore,Credit Card,2023-11-30,178920.0
+OD000834,CUST0294,Customer 417,Grocery & Staples,2,Lucknow,UPI,2023-12-01,940.0
+OD000671,CUST0459,Customer 272,Furniture,3,Lucknow,Credit Card,2023-12-01,149550.0
+OD000034,CUST0464,Customer 341,Mobile Phones,3,Lucknow,UPI,2023-12-01,106020.0
+OD000519,CUST0405,Customer 35,Sports & Fitness,4,Ahmedabad,Debit Card,2023-12-02,10520.0
+OD000781,CUST0234,Customer 203,Grocery & Staples,3,Hyderabad,Debit Card,2023-12-02,8340.0
+OD000686,CUST0099,Customer 290,Beauty & Personal Care,1,Kolkata,Net Banking,2023-12-03,1960.0
+OD000230,CUST0337,Customer 132,Electronics,4,Ahmedabad,Credit Card,2023-12-03,274760.0
+OD000832,CUST0452,Customer 5,Mobile Phones,2,Chennai,Net Banking,2023-12-04,93580.0
+OD000736,CUST0404,Customer 257,Electronics,2,Jaipur,UPI,2023-12-04,27900.0
+OD000445,CUST0381,Customer 158,Beauty & Personal Care,3,Jaipur,Net Banking,2023-12-04,5640.0
+OD000606,CUST0035,Customer 397,Grocery & Staples,2,Chennai,Debit Card,2023-12-05,5980.0
+OD000298,CUST0077,Customer 222,Beauty & Personal Care,3,Hyderabad,UPI,2023-12-05,600.0
+OD000535,CUST0181,Customer 106,Fashion,3,Mumbai,Debit Card,2023-12-06,9900.0
+OD000329,CUST0446,Customer 364,Electronics,3,Mumbai,COD,2023-12-06,90000.0
+OD000031,CUST0405,Customer 419,Electronics,3,Mumbai,Net Banking,2023-12-07,219060.0
+OD000871,CUST0107,Customer 449,Furniture,2,Kolkata,Credit Card,2023-12-07,29260.0
+OD000114,CUST0116,Customer 2,Grocery & Staples,4,Mumbai,COD,2023-12-08,8520.0
+OD000855,CUST0142,Customer 216,Electronics,3,Jaipur,COD,2023-12-08,6330.0
+OD000139,CUST0366,Customer 153,Fashion,3,Jaipur,UPI,2023-12-08,7890.0
+OD000616,CUST0413,Customer 250,Mobile Phones,1,Pune,COD,2023-12-09,34950.0
+OD000047,CUST0239,Customer 386,Home & Kitchen,3,Jaipur,Credit Card,2023-12-10,5940.0
+OD000761,CUST0321,Customer 176,Mobile Phones,2,Bangalore,Debit Card,2023-12-10,34380.0
+OD000737,CUST0302,Customer 83,Furniture,1,Ahmedabad,COD,2023-12-10,44640.0
+OD000815,CUST0378,Customer 49,Sports & Fitness,2,Delhi,Net Banking,2023-12-10,8640.0
+OD000636,CUST0155,Customer 368,Grocery & Staples,4,Jaipur,COD,2023-12-11,11040.0
+OD000901,CUST0007,Customer 181,Appliances,4,Jaipur,UPI,2023-12-11,94920.0
+OD000458,CUST0300,Customer 425,Mobile Phones,1,Pune,COD,2023-12-11,23230.0
+OD000647,CUST0369,Customer 201,Home & Kitchen,3,Ahmedabad,UPI,2023-12-11,35070.0
+OD000164,CUST0072,Customer 80,Sports & Fitness,3,Hyderabad,Net Banking,2023-12-11,24180.0
+OD000064,CUST0141,Customer 68,Mobile Phones,3,Hyderabad,Net Banking,2023-12-13,103020.0
+OD000963,CUST0152,Customer 330,Appliances,3,Delhi,COD,2023-12-13,52410.0
+OD000367,CUST0260,Customer 237,Electronics,2,Delhi,Net Banking,2023-12-13,25800.0
+OD000499,CUST0309,Customer 211,Furniture,1,Bangalore,COD,2023-12-13,49320.0
+OD000598,CUST0183,Customer 236,Beauty & Personal Care,2,Chennai,UPI,2023-12-13,620.0
+OD000036,CUST0435,Customer 377,Furniture,1,Lucknow,Net Banking,2023-12-14,10010.0
+OD000716,CUST0366,Customer 27,Furniture,4,Delhi,COD,2023-12-14,157680.0
+OD000096,CUST0201,Customer 454,Grocery & Staples,1,Bangalore,Debit Card,2023-12-15,720.0
+OD000802,CUST0098,Customer 210,Grocery & Staples,1,Jaipur,UPI,2023-12-15,1830.0
+OD000819,CUST0233,Customer 275,Electronics,4,Jaipur,UPI,2023-12-15,312480.0
+OD000067,CUST0499,Customer 352,Beauty & Personal Care,4,Chennai,Credit Card,2023-12-16,3640.0
+OD000554,CUST0425,Customer 326,Beauty & Personal Care,2,Hyderabad,Debit Card,2023-12-17,1660.0
+OD000944,CUST0379,Customer 179,Mobile Phones,3,Hyderabad,Credit Card,2023-12-18,62520.0
+OD000021,CUST0453,Customer 343,Appliances,3,Delhi,Credit Card,2023-12-18,68130.0
+OD000518,CUST0035,Customer 40,Beauty & Personal Care,1,Mumbai,Debit Card,2023-12-19,1050.0
+OD000826,CUST0052,Customer 128,Electronics,4,Hyderabad,Debit Card,2023-12-19,224440.0
+OD000908,CUST0294,Customer 195,Beauty & Personal Care,3,Mumbai,Debit Card,2023-12-19,3600.0
+OD000328,CUST0269,Customer 482,Grocery & Staples,1,Chennai,Net Banking,2023-12-20,1430.0
+OD000466,CUST0074,Customer 247,Electronics,2,Hyderabad,Debit Card,2023-12-21,124700.0
+OD000373,CUST0350,Customer 230,Appliances,2,Ahmedabad,COD,2023-12-21,37860.0
+OD000321,CUST0148,Customer 212,Sports & Fitness,1,Hyderabad,UPI,2023-12-21,6180.0
+OD000805,CUST0321,Customer 410,Furniture,2,Delhi,Net Banking,2023-12-22,58840.0
+OD000218,CUST0001,Customer 226,Appliances,3,Delhi,Credit Card,2023-12-23,149820.0
+OD000337,CUST0359,Customer 353,Beauty & Personal Care,3,Lucknow,Debit Card,2023-12-23,4380.0
+OD000547,CUST0246,Customer 358,Grocery & Staples,3,Mumbai,COD,2023-12-23,4260.0
+OD000777,CUST0426,Customer 267,Mobile Phones,3,Chennai,UPI,2023-12-23,35940.0
+OD000276,CUST0383,Customer 383,Beauty & Personal Care,2,Mumbai,Credit Card,2023-12-24,1840.0
+OD000642,CUST0451,Customer 422,Mobile Phones,3,Pune,Credit Card,2023-12-24,70500.0
+OD000211,CUST0083,Customer 263,Books & Stationery,3,Pune,COD,2023-12-25,2070.0
+OD000223,CUST0134,Customer 26,Fashion,1,Hyderabad,Credit Card,2023-12-25,2440.0
+OD000806,CUST0037,Customer 304,Home & Kitchen,1,Hyderabad,Debit Card,2023-12-25,12750.0
+OD000849,CUST0085,Customer 411,Home & Kitchen,2,Ahmedabad,COD,2023-12-26,5980.0
+OD000340,CUST0178,Customer 141,Appliances,2,Delhi,COD,2023-12-26,53800.0
+OD000264,CUST0094,Customer 403,Grocery & Staples,1,Kolkata,COD,2023-12-26,2800.0
+OD000673,CUST0312,Customer 182,Books & Stationery,2,Lucknow,UPI,2023-12-26,1120.0
+OD000775,CUST0478,Customer 309,Home & Kitchen,4,Ahmedabad,Net Banking,2023-12-26,43920.0
+OD000192,CUST0395,Customer 117,Furniture,3,Lucknow,UPI,2023-12-27,114990.0
+OD000907,CUST0362,Customer 22,Grocery & Staples,4,Jaipur,UPI,2023-12-27,4760.0
+OD000130,CUST0010,Customer 475,Furniture,1,Pune,UPI,2023-12-27,34530.0
+OD000747,CUST0199,Customer 359,Beauty & Personal Care,2,Pune,Credit Card,2023-12-28,1440.0
+OD000058,CUST0419,Customer 334,Mobile Phones,2,Lucknow,Net Banking,2023-12-29,29380.0
+OD000253,CUST0015,Customer 378,Sports & Fitness,2,Jaipur,Debit Card,2023-12-29,17580.0
+OD000990,CUST0136,Customer 164,Sports & Fitness,1,Pune,Net Banking,2023-12-30,4440.0
+OD000423,CUST0394,Customer 63,Sports & Fitness,1,Lucknow,Debit Card,2023-12-30,7910.0
+OD000676,CUST0353,Customer 432,Sports & Fitness,2,Delhi,UPI,2023-12-30,18600.0
+OD000514,CUST0162,Customer 304,Sports & Fitness,2,Chennai,Debit Card,2023-12-30,12820.0
+OD000119,CUST0434,Customer 110,Mobile Phones,1,Ahmedabad,Credit Card,2023-12-31,34820.0
